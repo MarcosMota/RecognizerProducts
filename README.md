@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 
 This repo contains code for the
@@ -9,3 +10,7 @@ in the `android/` directory.
 
 The `scripts` directory contains helpers for the codelab.
 
+=======
+# RecognizerProducts
+Projeto deep learning que reconhece produtos 
+>>>>>>> bb9ded71659e372edbb1d19cb20872e57390822a
