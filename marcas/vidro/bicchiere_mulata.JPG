@@ -1,0 +1,1603 @@
+<!doctype html>
+<!--[if IEMobile]><html class="iemobile" lang="it-it"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="it-it"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="it-it"> <![endif]-->
+<!--[if gt IE 8]><!-->  <html class="no-js" lang="it-it"> <!--<![endif]-->
+ <head>
+  <base href="http://www.rumshop.it/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="illy collection, rum, rhum, tazzine illy, whisky, assenzio, grappe Nonino" />
+  <meta name="rights" content="Rumlife è un marchio di proprietà di TNT PUB sas di A. Sema &amp; C. Via della Ginnastica 46a TRIESTE" />
+  <meta name="author" content="tntpub@gmail.com" />
+  <meta name="description" content="Tazzine da collezione Illy Collection e rum pregiati vendita online" />
+  <title>Rumlife Shop - Illy Collection &amp; Rum Pregiati</title>
+  <meta property="og:title" content="Rumlife Shop - Illy Collection & Rum Pregiati"/>
+  <meta property="og:type" content="product"/>
+  <meta property="og:url" content="http://www.rumshop.it/"/>
+  <meta property="og:image" content="http://www.rumshop.it/images/logo_small.png" />
+  <meta property="og:description" content="Tazzine da collezione Illy Collection e rum pregiati vendita online" />
+  <meta property="og:site_name" content="Illy Collection & Rum Pregiati" />
+  <meta property="og:street-address" content="Via Ginnastica 46a"/>
+  <meta property="og:locality" content="Trieste"/>
+  <meta property="og:postal-code" content="34125"/>
+  <meta property="og:country-name" content="Italy"/>
+  <meta property="og:email" content="tntpub@gmail.com"/>
+  <meta property="og:phone_number" content="+39.040661116"/>
+  <meta property="fb:admins" content="179194505805"/>
+  <link href="/templates/vp_promart/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.rumshop.it/modules/mod_tabs_gk5/styles/style3.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/jquery.fancybox-1.3.4.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.rumshop.it/plugins/content/itpsocialbuttons/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/template.css?v=1.1a" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/virtuemart.css?v=1.1a" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/product-image-gallery.css?v=1.1a" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/prettyPhoto.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/jquery.jscrollpane.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/style6.css?v=1.1a" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/vp_promart/css/promart-reponsive.css?v=1.1a" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_vmcategorymenu/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css?v=1448272112" type="text/css" />
+  <link rel="stylesheet" href="http://www.rumshop.it/modules/mod_itpsocialbuttons/style.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vmsite-ltr.css" type="text/css" />
+  <style type="text/css">
+#gk-tabs-278 .gkTabsContainer0, #gk-tabs-278 .gkTabsContainer1, #gk-tabs-278 .gkTabsContainer2 { height: 200px; }
+			.fb-like-box {
+				background:#ed1118;
+				padding:0 0px;
+				margin:10px 0;
+				border:solid 1px #c7c7c7;
+				-webkit-box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.30);
+				-moz-box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.30);
+				box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.30);
+               }
+
+		.vm-simple-product-slideshow.flexslider{background:#de1118;}.promart #overall{background:#F1F2F2}
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/16a.png');}
+        a.flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/16.png');}
+        a.flag img {border:0;}
+        a.alt_flag {font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flagsa.png');}
+        a.alt_flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flags.png');}
+        a.alt_flag img {border:0;}
+    
+  </style>
+  <script src="/templates/vp_promart/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/jquery-ui-1.8.19.custom.min.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/cloud-zoom.1.0.2.min.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/jquery.mousewheel.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/jquery.jscrollpane.min.js" type="text/javascript"></script>
+  <script src="/templates/vp_promart/js/custom.js?v=1.1a" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.rumshop.it/modules/mod_tabs_gk5/scripts/engine.mootools.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noConflict.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmsite.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js" type="text/javascript"></script>
+  <script src="/media/com_acymailing/js/acymailing_module.js?v=501" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});//<![CDATA[ 
+vmSiteurl = 'http://www.rumshop.it/' ;
+vmLang = "";
+Virtuemart.addtocart_popup = '1' ; 
+usefancy = true;
+//]]>
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });	if(typeof acymailing == 'undefined'){
+					var acymailing = Array();
+				}
+				acymailing['NAMECAPTION'] = 'Nome';
+				acymailing['NAME_MISSING'] = 'Inserisci il tuo nome.';
+				acymailing['EMAILCAPTION'] = 'Email';
+				acymailing['VALID_EMAIL'] = 'Inserisci un indirizzo email valido.';
+				acymailing['ACCEPT_TERMS'] = 'Leggi le note sulla Privacy e sui Termini di Utilizzo';
+				acymailing['CAPTCHA_MISSING'] = 'Inserisci il codice di sicurezza visualizzato nell\'immagine';
+				acymailing['NO_LIST_SELECTED'] = 'Si prega di selezionare le liste a cui si desidera iscriversi';
+		if (window.jQuery) {
+			jQuery(document).ready(function(){
+				jQuery("#acymailing_fulldiv_formAcymailing29611").hide();
+ 				jQuery("#acymailing_togglemodule_formAcymailing29611").click(function(){
+					jQuery("#acymailing_fulldiv_formAcymailing29611").slideToggle("fast");
+					jQuery("#acymailing_togglemodule_formAcymailing29611").toggleClass("acyactive");
+				});
+			});
+		} else{
+		window.addEvent('domready', function(){
+				var mySlide = new Fx.Slide('acymailing_fulldiv_formAcymailing29611');
+				mySlide.hide();
+				try{
+					var acytogglemodule = document.id('acymailing_togglemodule_formAcymailing29611');
+				}catch(err){
+					var acytogglemodule = $('acymailing_togglemodule_formAcymailing29611');
+				}
+
+				acytogglemodule.addEvent('click', function(e){
+					if(mySlide.wrapper.offsetHeight == 0){
+						acytogglemodule.className = 'acymailing_togglemodule acyactive';
+					}else{
+						acytogglemodule.className = 'acymailing_togglemodule';
+					}
+					mySlide.toggle();
+					try {
+						var evt = new Event(e);
+						evt.stop();
+					} catch(err) {
+						e.stop();
+					}
+				});
+			});
+		}
+  </script>
+
+  <script src="/templates/vp_promart/js/modernizr.js" type="text/javascript"></script>
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <link rel="apple-touch-icon-precomposed" href="/templates/vp_promart/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/templates/vp_promart/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/templates/vp_promart/apple-touch-icon-114x114.png">
+  <!--[if lte IE 8]><style>{behavior:url(/templates/vp_promart/js/PIE.htc);}</style><![endif]-->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans">
+	 
+</head>	
+<body class="promart style-6 ">
+<!-- Start: Custom Codes to Body -->
+<script src="/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Questo sito utilizza cookie, anche di terze parti, per migliorare la tua esperienza e offrire servizi in linea con le tue preferenze. Chiudendo questo banner, scorrendo questa pagina o cliccando qualunque suo elemento acconsenti all uso dei cookie. Se vuoi saperne di più o negare il consenso a tutti o ad alcuni cookie vai alla sezione Cookie Policy',
+      'close message', 'Cookie Policy', 'http://www.rumshop.it/it/tazzine-illy-e-rum-pregiati/cookie-policy.html');
+  });
+</script>
+<!-- End: Custom Codes to Body -->
+	<div id="overall">
+				<div id="top" class="top-bar container">
+			<div class="row-fluid">
+				<div class="span12 top-bar-cont">				
+										<div class="top-menu">
+						<ul class="list ">
+<li class="item-334"><a href="/it/registrati-o-accedi.html" >Registrati</a></li><li class="item-335"><a href="/it/2014-08-25-23-23-54.html" >Accedi</a></li><li class="item-578"><a href="/it/registra-azienda.html" >Registra Azienda</a></li></ul>
+
+					</div>
+						
+					<div class="language-currency-mod">
+													
+							
+					</div>
+				</div>
+				<div class="show-cart visible-phone">
+										<i class="icon-shopping-cart"></i><a class="phone-show-cart" href="/it/tutte-le-categorie/cart.html" title="Mostra il Carrello">Mostra il Carrello</a>
+				</div>					
+			</div>
+		</div>
+				
+		<header id="header" class="container">
+			<div class="row-fluid branding-header-module">
+				<div class="span8 branding">
+					<a class="logo-link" href="/"><img src="/images/logo_new.png" alt="Illy Collection & Rum Pregiati" /></a>
+				</div>	
+				<div class="header-modules span4 hidden-phone">			
+					<div class="vm-mini-cart">
+<!-- Virtuemart 2 Ajax Card -->
+	<div class="vmCartModule   vm-mini-cart-module" id="vmCartModule">
+				<div class="hidden-cart-content">
+			<div id="hiddencontainer">
+				<div class="container">
+					<div class="added-product">
+											  		<div class="prices"></div>
+													<div class="product_row">
+								<span class="quantity"></span>&nbsp;x&nbsp;<span class="product_name"></span>
+							</div>
+						<div class="product_attributes"></div>
+					</div>
+					<div class="show_cart"></div>
+				</div>
+			</div>
+			
+			<div class="vm_cart_products">
+							</div>
+
+		</div>
+			
+		<div class="visible-cart-content">
+			<div class="total_products">
+				Carrello vuoto			</div>
+			<div class="total">
+							</div>
+		</div>	
+		
+		<noscript>
+			Attendere prego		</noscript>
+					
+	</div>
+</div>
+
+
+				
+				</div>						
+			</div>
+						<div class="row-fluid">
+				<div class="navbar navbar-inverse span12">
+    			<div class="navbar-inner">       
+	        	<!-- .btn-navbar is used to toogle  collapsed navbar content -->
+	        	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	          	<span class="icon-bar"></span>
+	          	<span class="icon-bar"></span>
+	          	<span class="icon-bar"></span>
+	        	</a>
+						<div class="pull-right">
+							
+<form class="search-form" action="/it/illy-collection/illy-cappuccio/search.html" method="get">
+    <div class="search search-bar   ">
+        <input name="keyword" id="mod-search-searchword" maxlength="50" alt="Cerca" class="inputbox search-bar  " type="text" size="50" value="Cerca tra i prodotti"  onblur="if(this.value=='') this.value='Cerca tra i prodotti';" onfocus="if(this.value=='Cerca tra i prodotti') this.value='';" /><input type="submit" value="Cerca" class="button search-bar  " onclick="this.form.keyword.focus();"/>    </div>
+    <input type="hidden" name="limitstart" value="0" />
+    <input type="hidden" name="option" value="com_virtuemart" />
+    <input type="hidden" name="view" value="category" />
+</form>
+
+						</div>						            
+        		<!-- Everything you want hidden at 940px or less, place within here -->
+        		<div class="nav-collapse">
+							<div class="pull-left visible-desktop">
+  							<nav>
+<ul class="menu nav menu-mainmenu menu-iconmenu menu-richmenu">
+<li class="item-101 current active deeper parent"><a href="/it.html" title="Rumshop" >Homepage</a><ul class="submenu sublevel-1"><li class="item-162 active"><a href="/it.html" title="Rumshop" >Home  </a></li><li class="item-150"><a href="/it/tazzine-illy-e-rum-pregiati/termini-e-condizioni-del-servizio.html" >Termini e condizioni del servizio</a></li><li class="item-151"><a href="/it/tazzine-illy-e-rum-pregiati/privacy.html" >Privacy</a></li><li class="item-152"><a href="/it/tazzine-illy-e-rum-pregiati/pagamenti-e-spedizioni.html" >Pagamenti e spedizioni</a></li><li class="item-153"><a href="/it/tazzine-illy-e-rum-pregiati/diritto-di-recesso.html" >Diritto di recesso</a></li><li class="item-147"><a href="/it/tazzine-illy-e-rum-pregiati/contatti.html" >Contatti</a></li><li class="item-222"><a href="http://www.rumshop.it/index.php?option=com_xmap&amp;view=xml&amp;tmpl=component&amp;id=2" >Mappa del sito</a></li><li class="item-255"><a href="/it/tazzine-illy-e-rum-pregiati/assistenza-tecnica.html" >Assistenza Tecnica</a></li><li class="item-296"><a href="/it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" >Spedizioni Internazionali</a></li><li class="item-309"><a href="/it/tazzine-illy-e-rum-pregiati/link-amici.html" >Link Amici</a></li><li class="item-310"><a href="/it/tazzine-illy-e-rum-pregiati/newsletter.html" >Newsletter</a></li><li class="item-311"><a href="/it/tazzine-illy-e-rum-pregiati/notizie.html" >Notizie</a></li><li class="item-572"><a href="/it/tazzine-illy-e-rum-pregiati/registrazione-aziende.html" >Registrazione Aziende</a></li><li class="item-579"><a href="/it/tazzine-illy-e-rum-pregiati/cookie-policy.html" >Cookie Policy</a></li></ul></li><li class="item-123 deeper parent"><a href="/it/illy-collection.html" >ILLY</a><ul class="submenu sublevel-1"><li class="item-163"><a href="/it/illy-collection/2014-01-17-17-46-05.html" >Tutto Illy</a></li><li class="item-148"><a href="/it/illy-collection/illy-serie.html" >Illy Serie</a></li><li class="item-149"><a href="/it/illy-collection/illy-tazzine-singole.html" >Illy Tazzine Singole</a></li><li class="item-164"><a href="/it/illy-collection/illy-cappuccio.html" >Illy Cappuccio</a></li><li class="item-165"><a href="/it/illy-collection/illy-espresso.html" >Illy Espresso</a></li><li class="item-205"><a href="/it/illy-collection/moke-illy.html" >Moke Illy</a></li><li class="item-204"><a href="/it/illy-collection/barattoli.html" >Barattoli</a></li><li class="item-206"><a href="/it/illy-collection/altro-illy.html" >Altro illy</a></li><li class="item-207"><a href="/it/illy-collection/illy-anno-per-anno.html" >Illy Anno per anno</a></li><li class="item-322"><a href="/it/illy-collection/illy-artists.html" >Illy Artists</a></li><li class="item-223"><a href="/it/illy-collection/illy-collection-un-po-di-storia.html" >Illy Collection - un po' di storia</a></li></ul></li><li class="item-124 deeper parent"><a href="/it/rhum.html" >Rhum</a><ul class="submenu sublevel-1"><li class="item-129"><a href="/it/rhum/rum-classici.html" >Rum Classici</a></li><li class="item-130"><a href="/it/rhum/rum-agricoli.html" >Rum Agricoli</a></li><li class="item-131"><a href="/it/rhum/rum-speziati.html" >Rum Speziati</a></li><li class="item-185"><a href="/it/rhum/selezioni-di-rum.html" >Selezioni di Rum</a></li><li class="item-155"><a href="/it/rhum/produttori.html" >Produttori</a></li></ul></li><li class="item-183 deeper parent"><a href="/it/d-ancap.html" >D'Ancàp</a><ul class="submenu sublevel-1"><li class="item-208"><a href="/it/d-ancap/megamenu-dancap-tazze.html" >Tazze</a></li><li class="item-209"><a href="/it/d-ancap/megamenu-dancap-moke.html" >Moke</a></li><li class="item-210"><a href="/it/d-ancap/megamenu-teieredancap.html" >Teiere</a></li><li class="item-211"><a href="/it/d-ancap/megamenu-zuccherieredancap.html" >Zuccheriere</a></li><li class="item-212"><a href="/it/d-ancap/megamenu-illy-dancap-lattiere.html" >Lattiere</a></li><li class="item-316 deeper parent"><a href="/it/d-ancap/scegli-per-decoro.html" >Scegli per decoro</a><ul class="submenu sublevel-2"><li class="item-317"><a href="/it/d-ancap/scegli-per-decoro/note-e-sentimenti.html" >Note e Sentimenti</a></li><li class="item-318"><a href="/it/d-ancap/scegli-per-decoro/storie-di-viaggi.html" >Storie di Viaggi</a></li><li class="item-319"><a href="/it/d-ancap/scegli-per-decoro/girasole-innamorato.html" >Girasole Innamorato</a></li><li class="item-355"><a href="/it/d-ancap/scegli-per-decoro/oriente.html" >Oriente</a></li><li class="item-356"><a href="/it/d-ancap/scegli-per-decoro/safari.html" >Safari</a></li><li class="item-357"><a href="/it/d-ancap/scegli-per-decoro/stella-alpina.html" >Stella Alpina</a></li><li class="item-358"><a href="/it/d-ancap/scegli-per-decoro/righe-vagabonde.html" >Righe Vagabonde</a></li><li class="item-359"><a href="/it/d-ancap/scegli-per-decoro/scelta-commerciale.html" >Scelta Commerciale</a></li><li class="item-360"><a href="/it/d-ancap/scegli-per-decoro/internetmania.html" >Internetmania</a></li><li class="item-361"><a href="/it/d-ancap/scegli-per-decoro/il-mondo-in-una-lettera.html" >Il Mondo in una Lettera</a></li></ul></li></ul></li><li class="item-184 deeper parent"><a href="/it/assenzio-altro.html" >Altri Distillati</a><ul class="submenu sublevel-1"><li class="item-126"><a href="/it/assenzio-altro/absinthe.html" >Assenzio</a></li><li class="item-125"><a href="/it/assenzio-altro/whisky.html" >Whisky</a></li><li class="item-339"><a href="/it/assenzio-altro/gin.html" >Gin</a></li><li class="item-341"><a href="/it/assenzio-altro/tequila.html" >Tequila</a></li><li class="item-342"><a href="/it/assenzio-altro/vodka.html" >Vodka</a></li><li class="item-340"><a href="/it/assenzio-altro/grappe.html" >Grappe</a></li></ul></li><li class="item-523 deeper parent"><span class="separator">Artisti Illy</span>
+<ul class="submenu sublevel-1"><li class="item-524"><a href="/it/artisti-illy/matteo-thun.html" >Matteo Thun</a></li><li class="item-529"><a href="/it/artisti-illy/luca-trazzi.html" >Luca Trazzi</a></li><li class="item-554"><a href="/it/artisti-illy/david-byrne.html" >David Byrne</a></li><li class="item-558"><a href="/it/artisti-illy/marina-abramovic.html" >Marina Abramovic</a></li><li class="item-559"><a href="/it/artisti-illy/james-rosenquist.html" >James Rosenquist</a></li><li class="item-561"><a href="/it/artisti-illy/jean-fabre.html" >Jean Fabre</a></li></ul></li><li class="item-562"><a href="/it/news.html" >News!</a></li></ul>
+</nav>
+
+							</div>
+							<div class="hidden-desktop">
+							  <nav>
+<ul class="menu nav menu-mainmenu menu-iconmenu menu-richmenu">
+<li class="item-101 current active deeper parent"><a href="/it.html" title="Rumshop" >Homepage</a><ul class="submenu sublevel-1"><li class="item-162 active"><a href="/it.html" title="Rumshop" >Home  </a></li><li class="item-150"><a href="/it/tazzine-illy-e-rum-pregiati/termini-e-condizioni-del-servizio.html" >Termini e condizioni del servizio</a></li><li class="item-151"><a href="/it/tazzine-illy-e-rum-pregiati/privacy.html" >Privacy</a></li><li class="item-152"><a href="/it/tazzine-illy-e-rum-pregiati/pagamenti-e-spedizioni.html" >Pagamenti e spedizioni</a></li><li class="item-153"><a href="/it/tazzine-illy-e-rum-pregiati/diritto-di-recesso.html" >Diritto di recesso</a></li><li class="item-147"><a href="/it/tazzine-illy-e-rum-pregiati/contatti.html" >Contatti</a></li><li class="item-222"><a href="http://www.rumshop.it/index.php?option=com_xmap&amp;view=xml&amp;tmpl=component&amp;id=2" >Mappa del sito</a></li><li class="item-255"><a href="/it/tazzine-illy-e-rum-pregiati/assistenza-tecnica.html" >Assistenza Tecnica</a></li><li class="item-296"><a href="/it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" >Spedizioni Internazionali</a></li><li class="item-309"><a href="/it/tazzine-illy-e-rum-pregiati/link-amici.html" >Link Amici</a></li><li class="item-310"><a href="/it/tazzine-illy-e-rum-pregiati/newsletter.html" >Newsletter</a></li><li class="item-311"><a href="/it/tazzine-illy-e-rum-pregiati/notizie.html" >Notizie</a></li><li class="item-572"><a href="/it/tazzine-illy-e-rum-pregiati/registrazione-aziende.html" >Registrazione Aziende</a></li><li class="item-579"><a href="/it/tazzine-illy-e-rum-pregiati/cookie-policy.html" >Cookie Policy</a></li></ul></li><li class="item-123 deeper parent"><a href="/it/illy-collection.html" >ILLY</a><ul class="submenu sublevel-1"><li class="item-163"><a href="/it/illy-collection/2014-01-17-17-46-05.html" >Tutto Illy</a></li><li class="item-148"><a href="/it/illy-collection/illy-serie.html" >Illy Serie</a></li><li class="item-149"><a href="/it/illy-collection/illy-tazzine-singole.html" >Illy Tazzine Singole</a></li><li class="item-164"><a href="/it/illy-collection/illy-cappuccio.html" >Illy Cappuccio</a></li><li class="item-165"><a href="/it/illy-collection/illy-espresso.html" >Illy Espresso</a></li><li class="item-205"><a href="/it/illy-collection/moke-illy.html" >Moke Illy</a></li><li class="item-204"><a href="/it/illy-collection/barattoli.html" >Barattoli</a></li><li class="item-206"><a href="/it/illy-collection/altro-illy.html" >Altro illy</a></li><li class="item-207"><a href="/it/illy-collection/illy-anno-per-anno.html" >Illy Anno per anno</a></li><li class="item-322"><a href="/it/illy-collection/illy-artists.html" >Illy Artists</a></li><li class="item-223"><a href="/it/illy-collection/illy-collection-un-po-di-storia.html" >Illy Collection - un po' di storia</a></li></ul></li><li class="item-124 deeper parent"><a href="/it/rhum.html" >Rhum</a><ul class="submenu sublevel-1"><li class="item-129"><a href="/it/rhum/rum-classici.html" >Rum Classici</a></li><li class="item-130"><a href="/it/rhum/rum-agricoli.html" >Rum Agricoli</a></li><li class="item-131"><a href="/it/rhum/rum-speziati.html" >Rum Speziati</a></li><li class="item-185"><a href="/it/rhum/selezioni-di-rum.html" >Selezioni di Rum</a></li><li class="item-155"><a href="/it/rhum/produttori.html" >Produttori</a></li></ul></li><li class="item-183 deeper parent"><a href="/it/d-ancap.html" >D'Ancàp</a><ul class="submenu sublevel-1"><li class="item-208"><a href="/it/d-ancap/megamenu-dancap-tazze.html" >Tazze</a></li><li class="item-209"><a href="/it/d-ancap/megamenu-dancap-moke.html" >Moke</a></li><li class="item-210"><a href="/it/d-ancap/megamenu-teieredancap.html" >Teiere</a></li><li class="item-211"><a href="/it/d-ancap/megamenu-zuccherieredancap.html" >Zuccheriere</a></li><li class="item-212"><a href="/it/d-ancap/megamenu-illy-dancap-lattiere.html" >Lattiere</a></li><li class="item-316 deeper parent"><a href="/it/d-ancap/scegli-per-decoro.html" >Scegli per decoro</a><ul class="submenu sublevel-2"><li class="item-317"><a href="/it/d-ancap/scegli-per-decoro/note-e-sentimenti.html" >Note e Sentimenti</a></li><li class="item-318"><a href="/it/d-ancap/scegli-per-decoro/storie-di-viaggi.html" >Storie di Viaggi</a></li><li class="item-319"><a href="/it/d-ancap/scegli-per-decoro/girasole-innamorato.html" >Girasole Innamorato</a></li><li class="item-355"><a href="/it/d-ancap/scegli-per-decoro/oriente.html" >Oriente</a></li><li class="item-356"><a href="/it/d-ancap/scegli-per-decoro/safari.html" >Safari</a></li><li class="item-357"><a href="/it/d-ancap/scegli-per-decoro/stella-alpina.html" >Stella Alpina</a></li><li class="item-358"><a href="/it/d-ancap/scegli-per-decoro/righe-vagabonde.html" >Righe Vagabonde</a></li><li class="item-359"><a href="/it/d-ancap/scegli-per-decoro/scelta-commerciale.html" >Scelta Commerciale</a></li><li class="item-360"><a href="/it/d-ancap/scegli-per-decoro/internetmania.html" >Internetmania</a></li><li class="item-361"><a href="/it/d-ancap/scegli-per-decoro/il-mondo-in-una-lettera.html" >Il Mondo in una Lettera</a></li></ul></li></ul></li><li class="item-184 deeper parent"><a href="/it/assenzio-altro.html" >Altri Distillati</a><ul class="submenu sublevel-1"><li class="item-126"><a href="/it/assenzio-altro/absinthe.html" >Assenzio</a></li><li class="item-125"><a href="/it/assenzio-altro/whisky.html" >Whisky</a></li><li class="item-339"><a href="/it/assenzio-altro/gin.html" >Gin</a></li><li class="item-341"><a href="/it/assenzio-altro/tequila.html" >Tequila</a></li><li class="item-342"><a href="/it/assenzio-altro/vodka.html" >Vodka</a></li><li class="item-340"><a href="/it/assenzio-altro/grappe.html" >Grappe</a></li></ul></li><li class="item-523 deeper parent"><span class="separator">Artisti Illy</span>
+<ul class="submenu sublevel-1"><li class="item-524"><a href="/it/artisti-illy/matteo-thun.html" >Matteo Thun</a></li><li class="item-529"><a href="/it/artisti-illy/luca-trazzi.html" >Luca Trazzi</a></li><li class="item-554"><a href="/it/artisti-illy/david-byrne.html" >David Byrne</a></li><li class="item-558"><a href="/it/artisti-illy/marina-abramovic.html" >Marina Abramovic</a></li><li class="item-559"><a href="/it/artisti-illy/james-rosenquist.html" >James Rosenquist</a></li><li class="item-561"><a href="/it/artisti-illy/jean-fabre.html" >Jean Fabre</a></li></ul></li><li class="item-562"><a href="/it/news.html" >News!</a></li></ul>
+</nav>
+							  
+							</div>
+        		</div>      
+    			</div>
+  			</div>
+			</div>
+					
+		</header>
+		<div class="main-wrap">
+			<div id="main-site" class="container">
+												<div class="top-modules row-fluid">
+						
+	<div class="moduletable  span12">	
+		<div class="mods">	
+			<div class="bghelper">
+								<div class="modulcontent"><div class="itp-socialbuttons-mod">
+      
+   <div class="itp-sbb-bothl">
+        <div class="itp-sb-left">
+        <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.rumshop.it%2F&amp;t=Rumlife%20Shop%20-%20Illy%20Collection%20%26%20Rum%20Pregiati" title="Submit to Facebook" target="_blank" ><img src="http://www.rumshop.it/modules/mod_itpsocialbuttons/images/small/facebook.png" alt="Submit to Facebook" /></a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.rumshop.it%2F" title="Submit to Google Plus" target="_blank" ><img src="http://www.rumshop.it/modules/mod_itpsocialbuttons/images/small/google.png" alt="Submit to Google Plus" /></a><a href="http://twitter.com/share?text=Rumlife%20Shop%20-%20Illy%20Collection%20%26%20Rum%20Pregiati&amp;url=http%3A%2F%2Fwww.rumshop.it%2F" title="Submit to Twitter" target="_blank" ><img src="http://www.rumshop.it/modules/mod_itpsocialbuttons/images/small/twitter.png" alt="Submit to Twitter" /></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.rumshop.it%2F&amp;title=Rumlife%20Shop%20-%20Illy%20Collection%20%26%20Rum%20Pregiati" title="Submit to LinkedIn" target="_blank" ><img src="http://www.rumshop.it/modules/mod_itpsocialbuttons/images/small/linkedin.png" alt="Submit to LinkedIn" /></a>                </div>
+   </div>
+</div>
+</div>
+			</div>
+		</div>
+	</div>
+	
+				</div>	
+								
+									<div class="pathway row-fluid">
+	<ul class="breadcrumb span12">
+	<span class="showHere">Sei qui: </span>	<li class="active">Home</li>	</ul>
+</div>
+									
+				<div class="row-fluid">
+										<div class="span3 left-mod hidden-phone">
+							<div class="moduletable ">
+		<div class="mods">
+			<div class="bghelper">
+								<div class="modulcontent"><noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+
+
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'it', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('it|it');return false;" title="Italian" class="flag nturl" style="background-position:-600px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Italian" /></a> <a href="#" onclick="doGTranslate('it|nl');return false;" title="Dutch" class="flag nturl" style="background-position:-0px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Dutch" /></a> <a href="#" onclick="doGTranslate('it|en');return false;" title="English" class="flag nturl" style="background-position:-0px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="English" /></a> <a href="#" onclick="doGTranslate('it|fr');return false;" title="French" class="flag nturl" style="background-position:-200px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="French" /></a> <a href="#" onclick="doGTranslate('it|de');return false;" title="German" class="flag nturl" style="background-position:-300px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="German" /></a> <a href="#" onclick="doGTranslate('it|ja');return false;" title="Japanese" class="flag nturl" style="background-position:-700px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Japanese" /></a> <a href="#" onclick="doGTranslate('it|pt');return false;" title="Portuguese" class="flag nturl" style="background-position:-300px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Portuguese" /></a> <a href="#" onclick="doGTranslate('it|ru');return false;" title="Russian" class="flag nturl" style="background-position:-500px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Russian" /></a> <a href="#" onclick="doGTranslate('it|es');return false;" title="Spanish" class="flag nturl" style="background-position:-600px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Spanish" /></a> <br/><select onchange="doGTranslate(this);"><option value="">Select Language</option><option style="font-weight:bold;" value="it|it">Italian</option><option  value="it|af">Afrikaans</option><option  value="it|sq">Albanian</option><option  value="it|ar">Arabic</option><option  value="it|hy">Armenian</option><option  value="it|az">Azerbaijani</option><option  value="it|eu">Basque</option><option  value="it|be">Belarusian</option><option  value="it|bg">Bulgarian</option><option  value="it|ca">Catalan</option><option  value="it|zh-CN">Chinese (Simplified)</option><option  value="it|zh-TW">Chinese (Traditional)</option><option  value="it|hr">Croatian</option><option  value="it|cs">Czech</option><option  value="it|da">Danish</option><option  value="it|nl">Dutch</option><option  value="it|en">English</option><option  value="it|et">Estonian</option><option  value="it|tl">Filipino</option><option  value="it|fi">Finnish</option><option  value="it|fr">French</option><option  value="it|gl">Galician</option><option  value="it|ka">Georgian</option><option  value="it|de">German</option><option  value="it|el">Greek</option><option  value="it|ht">Haitian Creole</option><option  value="it|iw">Hebrew</option><option  value="it|hi">Hindi</option><option  value="it|hu">Hungarian</option><option  value="it|is">Icelandic</option><option  value="it|id">Indonesian</option><option  value="it|ga">Irish</option><option  value="it|ja">Japanese</option><option  value="it|ko">Korean</option><option  value="it|lv">Latvian</option><option  value="it|lt">Lithuanian</option><option  value="it|mk">Macedonian</option><option  value="it|ms">Malay</option><option  value="it|mt">Maltese</option><option  value="it|no">Norwegian</option><option  value="it|fa">Persian</option><option  value="it|pl">Polish</option><option  value="it|pt">Portuguese</option><option  value="it|ro">Romanian</option><option  value="it|ru">Russian</option><option  value="it|sr">Serbian</option><option  value="it|sk">Slovak</option><option  value="it|sl">Slovenian</option><option  value="it|es">Spanish</option><option  value="it|sw">Swahili</option><option  value="it|sv">Swedish</option><option  value="it|th">Thai</option><option  value="it|tr">Turkish</option><option  value="it|uk">Ukrainian</option><option  value="it|ur">Urdu</option><option  value="it|vi">Vietnamese</option><option  value="it|cy">Welsh</option><option  value="it|yi">Yiddish</option></select></div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Categorie del negozio</h3>
+								<div class="modulcontent"><div class="sp-vmmenu light" id="sp-vmmenu-398">
+    <ul>
+        <li class="parent"><a href="/it/illycollection.html">Illy Collection<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-13"><li><h5><a href="/it/illy-collection/illy-serie.html"  data-deep="1">Illy Collection Serie</a></h5></li><li><h5><a href="/it/illy-collection/illy-tazzine-singole.html"  data-deep="1">Illy Collection Singole</a></h5></li><li><h5><a href="/it/illycollection/illy-tazzine-espresso.html"  data-deep="1">Illy Tazzine Espresso</a></h5></li><li><h5><a href="/it/illycollection/illy-tazze-cappuccio.html"  data-deep="1">Illy Tazze Cappuccino</a></h5></li><li><h5><a href="/it/illy-collection/barattoli.html"  data-deep="1">Barattoli</a></h5></li><li><h5><a href="/it/illy-collection/moke-illy.html"  data-deep="1">Moke</a></h5></li><li><h5><a href="/it/illy-collection/altro-illy.html"  data-deep="1">Accessori Illy</a></h5></li><li><h5><a href="/it/illy-collection/illy-anno-per-anno.html"  data-deep="1">Anno per Anno</a></h5><ul class="sp-vmcol-5"><li><a href="/it/illy-collection/illy-anno-per-anno/1990-1995-en.html">1990 - 1995</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/1996-2000.html">1996 - 2000</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2001-2005.html">2001 - 2005</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2006-2010.html">2006 - 2010</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2011-2014.html">2011 - 2014</a></li></ul></li><li><h5><a href="/it/illycollection/illy-collection-en.html"  data-deep="1">Illy Collection</a></h5></li><li><h5><a href="/it/illycollection/illy-art-collection-serie.html"  data-deep="1">Illy Art Collection</a></h5></li><li><h5><a href="/it/illy-collection/illy-espresso.html"  data-deep="1">Illy Espresso</a></h5></li><li><h5><a href="/it/illycollection/amici-collection-serie.html"  data-deep="1">Amici Collection serie</a></h5></li><li><h5><a href="/it/illy-collection/illy-artists.html"  data-deep="1">Illy Artists</a></h5><ul class="sp-vmcol-26"><li><a href="/it/illy-collection/illy-artists/j-m-subirachs.html">J.M. Subirachs</a></li><li><a href="/it/illy-collection/illy-artists/j-rosenquist.html">J. Rosenquist</a></li><li><a href="/it/illy-collection/illy-artists/jan-fabre.html">Jan Fabre</a></li><li><a href="/it/illy-collection/illy-artists/jannis-kounellis.html">Jannis Kounellis</a></li><li><a href="/it/illy-collection/illy-artists/jean-koop.html">Jean Koop</a></li><li><a href="/it/illy-collection/illy-artists/a-r-penck.html">A. R. Penck</a></li><li><a href="/it/illy-collection/illy-artists/jeff-koons.html">Jeff Koons</a></li><li><a href="/it/illy-collection/illy-artists/an-du.html">An Du</a></li><li><a href="/it/illy-collection/illy-artists/joep-van-lieshout.html">Joep van Lieshout</a></li><li><a href="/it/illy-collection/illy-artists/daniel-buren.html">Daniel Buren</a></li><li><a href="/it/illy-collection/illy-artists/julian-schnabel.html">Julian Schnabel</a></li><li><a href="/it/illy-collection/illy-artists/darryll-pottorf.html">Darryl Pottorf</a></li><li><a href="/it/illy-collection/illy-artists/joseph-kosuth.html">Joseph Kosuth</a></li><li><a href="/it/illy-collection/illy-artists/davbid-byrne.html">David Byrne</a></li><li><a href="/it/illy-collection/illy-artists/luca-trazzi.html">Luca Trazzi</a></li><li><a href="/it/illy-collection/illy-artists/emanuele-luzzati.html">Emanuele Luzzati</a></li><li><a href="/it/illy-collection/illy-artists/louise-bourgeois.html">Louise Bourgeois</a></li><li><a href="/it/illy-collection/illy-artists/eric-mac-pherson.html">Eric Mac Pherson</a></li><li><a href="/it/illy-collection/illy-artists/maria-joao-calisto.html">Maria Joao Calisto</a></li><li><a href="/it/illy-collection/illy-artists/federico-fellini.html">Federico Fellini</a></li><li><a href="/it/illy-collection/illy-artists/marina-abramovic.html">Marina Abramovic</a></li><li><a href="/it/illy-collection/illy-artists/francesco-bonami.html">Francesco Bonami</a></li><li><a href="/it/illy-collection/illy-artists/marino-marini.html">Marino Marini</a></li><li><a href="/it/illy-collection/illy-artists/f-f-coppola.html">F. F. Coppola</a></li><li><a href="/it/illy-collection/illy-artists/mario-giacomelli-en.html">Mario Giacomelli</a></li><li><a href="/it/illy-collection/illy-artists/haim-steinbach.html">Haim Steinbach</a></li></ul></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-1"
+                            data-position="sp-vmcategorymenu-1"></div></li></ul></li><li class="parent"><a href="/it/porcellane-d-ancap.html">Coffee Set d'Ancap<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-6"><li><h5><a href="/it/d-ancap/megamenu-dancap-tazze.html"  data-deep="1">Tazze d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-zuccherieredancap.html"  data-deep="1">Zuccheriere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-illy-dancap-lattiere.html"  data-deep="1">Lattiere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-teieredancap.html"  data-deep="1">Teiere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-dancap-moke.html"  data-deep="1">Moke d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/scegli-per-decoro.html"  data-deep="1">Decori</a></h5><ul class="sp-vmcol-11"><li><a href="/it/d-ancap/scegli-per-decoro/girasole-innamorato.html">Girasole Innamorato</a></li><li><a href="/it/d-ancap/scegli-per-decoro/oriente.html">Oriente</a></li><li><a href="/it/d-ancap/scegli-per-decoro/stella-alpina.html">Stella Alpina</a></li><li><a href="/it/d-ancap/scegli-per-decoro/righe-vagabonde.html">Righe Vagabonde</a></li><li><a href="/it/d-ancap/scegli-per-decoro/internetmania.html">Internetmania</a></li><li><a href="/it/d-ancap/scegli-per-decoro/scelta-commerciale.html">Scelta Commerciale</a></li><li><a href="/it/d-ancap/scegli-per-decoro/il-mondo-in-una-lettera.html">Il mondo in una Lettera</a></li><li><a href="/it/d-ancap/scegli-per-decoro/storie-di-viaggi.html">Storie di Viaggi</a></li><li><a href="/it/d-ancap/scegli-per-decoro/note-e-sentimenti.html">Note e Sentimenti</a></li><li><a href="/it/d-ancap/scegli-per-decoro/safari.html">Safari</a></li><li><a href="/it/d-ancap/scegli-per-decoro/bella-italia.html">Bella Italia</a></li></ul></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-2"
+                            data-position="sp-vmcategorymenu-2"></div></li></ul></li><li class="parent"><a href="/it/rum.html">Rhum<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-4"><li><h5><a href="/it/rhum/rum-classici.html"  data-deep="1">Rum Classici</a></h5><ul class="sp-vmcol-2"><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza.html">Per provenienza</a><ul class="sp-vmcol-12"><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/barbados.html">Barbados</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/giamaica.html">Giamaica</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/guatemala.html">Guatemala</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/guyana.html">Guyana</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/nicaragua.html">Nicaragua</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/panama.html">Panama</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/santo-domingo.html">Santo Domingo</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/spagna.html">Spagna</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/trinidad-tobago.html">Trinidad & Tobago</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/venezuela.html">Venezuela</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/santa-lucia.html">Santa Lucia</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/altri-paesi.html">Altri Paesi</a></li></ul></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento.html">Per invecchiamento</a><ul class="sp-vmcol-7"><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-3-anni.html">Fino a 3 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-5-anni.html">Fino a 5 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-7-anni.html">Fino a 7 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/up-to-10-yo.html">Fino a 10 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-15-anni.html">Fino a 15 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-20-anni.html">Fino a 20 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/oltre-20-anni.html">Oltre 20 anni</a></li></ul></li></ul></li><li><h5><a href="/it/rhum/rum-agricoli.html"  data-deep="1">Rum Agricoli</a></h5><ul class="sp-vmcol-2"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza.html">Per provenienza</a><ul class="sp-vmcol-10"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/panama-1.html">Panama</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/brasile.html">Brasile</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/giamaica-1.html">Giamaica</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/haiti.html">Haiti</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/spagna-1.html">Spagna</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/guyana-1.html">Guyana</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/martinica.html">Martinica</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/nicaragua-1.html">Nicaragua</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/ile-de-la-reunion.html">Ile de la Reunion</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/guadalupe.html">Guadalupe</a></li></ul></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento.html">Per invecchiamento</a><ul class="sp-vmcol-7"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-3-anni-1.html">Fino a 3 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-5-anni-1.html">Fino a 5 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-7-anni-1.html">Fino a 7 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-10-anni-di-invecchiamento.html">Fino a 10 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-15-anni-di-invecchiamento.html">Fino a 15 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-20-anni-di-invecchiamento.html">Fino a 20 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-oltre-20-anni-di-invecchiamento.html">Oltre 20 anni</a></li></ul></li></ul></li><li><h5><a href="/it/rhum/rum-speziati.html"  data-deep="1">Rum Speziati</a></h5></li><li><h5><a href="/it/rhum/selezioni-di-rum.html"  data-deep="1">Selezioni di Rum</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-3"
+                            data-position="sp-vmcategorymenu-3"></div></li></ul></li><li class="parent"><a href="/it/assenzio-altro.html">Altri Distillati<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-6"><li><h5><a href="/it/absinthe.html"  data-deep="1">Assenzio</a></h5></li><li><h5><a href="/it/assenzio-altro/gin.html"  data-deep="1">Gin</a></h5></li><li><h5><a href="/it/assenzio-altro/grappe.html"  data-deep="1">Grappe</a></h5></li><li><h5><a href="/it/assenzio-altro/tequila.html"  data-deep="1">Tequila</a></h5></li><li><h5><a href="/it/assenzio-altro/vodka.html"  data-deep="1">Vodka</a></h5></li><li><h5><a href="/it/whiskey.html"  data-deep="1">Whisky</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-4"
+                            data-position="sp-vmcategorymenu-4"></div></li></ul></li><li class="parent"><a href="/it/tutte-le-categorie/bicchieri.html">Bicchieri<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-3"><li><h5><a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-rum.html"  data-deep="1">Bicchieri da Rum</a></h5></li><li><h5><a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-birra.html"  data-deep="1">Bicchieri da Birra</a></h5></li><li><h5><a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri.html"  data-deep="1">Altri Bicchieri</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-5"
+                            data-position="sp-vmcategorymenu-5"></div></li></ul></li><li><a href="/it/tutte-le-categorie/coca-cola.html">Coca Cola</a></li><li><a href="/it/tutte-le-categorie/articoli-da-collezione.html">Articoli da collezione</a></li><li><a href="/it/tutte-le-categorie/confezioni-regalo.html">Confezioni Regalo</a></li>    </ul>
+</div>
+
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable base">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Account </h3>
+								<div class="modulcontent">	<table cellpadding="0" cellspacing="0" class="moduletabledark">
+			<tr>
+			<td>
+				<form action="/it.html" method="post" id="login-form">
+        <fieldset class="userdata">
+			<div class="control-group">
+        <label id="form-login-username" for="modlgn-username">Nome utente</label>
+				<div class="controls">
+					<div class="input-prepend">
+						<span class="add-on"><i class="icon-user"></i></span>
+						<input id="modlgn-username" type="text" name="username" class="span8" size="18" />
+					</div>
+				</div>
+        <label id="form-login-password" for="modlgn-passwd">Password</label>
+				<div class="controls">
+					<div class="input-prepend">
+						<span class="add-on"><i class="icon-lock"></i></span>
+						<input id="modlgn-passwd" type="password" name="password" class="span8" size="18" />
+					</div>
+				</div>				
+
+                <label id="form-login-remember" class="checkbox inline" for="modlgn-remember">
+            <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" />
+						Ricordami        </label>
+        				<div class="clear"></div>
+        <input type="submit" name="Submit" class="login-button btn btn-small" value="Accedi" />
+        <input type="hidden" name="option" value="com_users" />
+        <input type="hidden" name="task" value="user.login" />
+        <input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xMDE=" />
+        <input type="hidden" name="a25916c41e4e1639399e3bd51ef45aee" value="1" />			</div>
+    </fieldset>
+    <ul>
+        <li>
+            <a href="/it/registrati-o-accedi.html?view=reset">
+                Password dimenticata?</a>
+        </li>
+        <li>
+            <a href="/it/registrati-o-accedi.html?view=remind">
+                Nome utente dimenticato?</a>
+        </li>
+                    <li>
+                <a href="/it/registrati-o-accedi.html">
+                    Registrati</a>
+            </li>
+                </ul>
+    </form>
+			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				
+
+<div class="custom"  >
+	<table style="border-width: 0px; width: 100%;" border="0" cellspacing="2">
+<tbody>
+<tr>
+<td style="text-align: center;" align="center" valign="middle"><hr />
+<h4><span style="font-size: 1em; font-weight: normal; line-height: 15px;">Sei un operatore della ristorazione?</span></h4>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #cccccc; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; text-align: center; background-color: #333333;"><a href="/it/tazzine-illy-e-rum-pregiati/registrazione-aziende.html" title="Registrazione Aziende"><strong>Registrati come utente professionale  </strong></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">per vedere i prezzi riservati ai professionisti.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><hr /></td>
+</tr>
+</tbody>
+</table></div>
+			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<ul class="side-menu" id="3">
+<li class="item-337"><a href="/it/i-miei-ordini.html" >I miei ordini</a></li></ul>
+			</td>
+		</tr>
+		</table>
+	</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable base">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Illy e l'arte</h3>
+								<div class="modulcontent"><ul class="side-menu">
+<li class="item-527 deeper parent"><span class="separator">Illy Artists</span>
+<ul class="submenu sublevel-1"><li class="item-525"><a href="/it/gli-artisti-per-illy/matteo-thun.html" >Matteo Thun</a></li><li class="item-526"><a href="/it/gli-artisti-per-illy/luca-trazzi.html" >Luca Trazzi</a></li><li class="item-530"><a href="/it/gli-artisti-per-illy/david-byrne.html" >David Byrne</a></li><li class="item-555"><a href="/it/gli-artisti-per-illy/marina-abramovic.html" >Marina Abramovic</a></li><li class="item-557"><a href="/it/gli-artisti-per-illy/james-rosenquist.html" >James Rosenquist</a></li><li class="item-560"><a href="/it/gli-artisti-per-illy/jean-fabre.html" >Jean Fabre</a></li></ul></li><li class="item-528"><span class="separator">Le Iniziative</span>
+</li></ul>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Registrati alla Newsletter !</h3>
+								<div class="modulcontent"><div class="acymailing_modulelight" id="acymailing_module_formAcymailing29611">
+		<div class="acymailing_mootoolsbutton" id="acymailing_toggle_formAcymailing29611" >
+			<p><a class="acymailing_togglemodule" id="acymailing_togglemodule_formAcymailing29611" href="#subscribe">Iscriviti</a></p>
+		<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing29611"  >
+		<form id="formAcymailing29611" action="/it.html" onsubmit="return submitacymailingform('optin','formAcymailing29611')" method="post" name="formAcymailing29611"  >
+		<div class="acymailing_module_form" >
+									<table class="acymailing_form">
+				<tr>
+												<td class="acyfield_name acy_requiredField">
+								<input id="user_name_formAcymailing29611"  onfocus="if(this.value == 'Nome') this.value = '';" onblur="if(this.value=='') this.value='Nome';" class="inputbox" type="text" name="user[name]" style="width:80%" value="Nome" title="Nome"/>
+							</td> </tr><tr>							<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing29611"  onfocus="if(this.value == 'Email') this.value = '';" onblur="if(this.value=='') this.value='Email';" class="inputbox" type="text" name="user[email]" style="width:80%" value="Email" title="Email"/>
+							</td> </tr><tr>
+
+					
+					<td  class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="Iscriviti" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing29611'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</td>
+				</tr>
+			</table>
+						<input type="hidden" name="ajax" value="0" />
+			<input type="hidden" name="acy_source" value="module_273" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.rumshop.it%2F"/>
+			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.rumshop.it%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing29611" />
+									</div>
+		</form>
+	</div>
+	 </div> </div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable dark">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Contatti </h3>
+								<div class="modulcontent">
+
+<div class="customdark"  >
+	<p><a href="/homepage/contatti.html" target="_blank" title="Contact mail"><img src="/images/email.png" border="0" alt="mail contact" title="Contact mail" width="35" style="margin: 2px 4px; vertical-align: middle;" /></a> <a href="mailto:tntpub@gmail.com" title="contatto mail">tntpub@gmail.com</a></p>
+<p><img src="/images/old_telephone.png" border="0" alt="telefono" title="telefono" width="35" style="vertical-align: middle; margin: 2px 4px;" />+39.<a href="tel:3351326124" target="_blank" style="color: #1155cc; font-family: arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;">335.1326124</a></p>
+<p><img src="/images/address_book.png" border="0" alt="contatti" title="indirizzo" width="35" style="margin: 2px 4px; float: left;" />TNT Pub SAS<br />Via Ginnastica 46/a<br />34125 Trieste</p>
+<p><a href="https://plus.google.com/u/0/111707959979377042321?rel=author"><img src="/images/google.png" border="0" alt="google" title="google plus" width="35" height="35" style="margin: 2px 4px; float: left;" />Google +</a></p></div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable dark">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Spese di Spedizione</h3>
+								<div class="modulcontent">
+
+<div class="customdark"  >
+	<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td colspan="2">
+<p style="text-align: center;"><span style="font-size: large;"><strong><span style="color: #ffcc00;">In tutta Italia</span> <span style="color: #ffcc00;">fino a 30 kg.</span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p style="text-align: center;"><span style="font-size: medium;"><strong>SEMPRE</strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h4 style="text-align: center;"><img src="/images/corriere.png" border="0" alt="spedizioni" title="corriere espresso" width="175" /></h4>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><a href="http://rumshop.it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" title="Costi spedizioni Internazionali">Spedizioni Internazionali</a><br /><strong><span style="color: #ffff00;"><a href="http://rumshop.it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" title="Costi spedizioni Internazionali"><span style="color: #ffff00;">Verifica Zone e Tariffe</span></a></span></strong></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable ">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Rss Feed</h3>
+								<div class="modulcontent"></div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>RumTag</h3>
+								<div class="modulcontent">
+<div id="joeswordcloud" class="light">
+	<p style="text-align:center">
+	
+
+
+<a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=collection" style="font-size:26px;line-height:28px;">collection</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=abramovic" style="font-size:8px;line-height:10px;">abramovic</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=arti" style="font-size:8px;line-height:10px;">arti</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=arte" style="font-size:19px;line-height:21px;">arte</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=michael" style="font-size:10px;line-height:12px;">michael</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=rosenquist" style="font-size:19px;line-height:21px;">rosenquist</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=sugar" style="font-size:11px;line-height:13px;">sugar</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=serie" style="font-size:28px;line-height:30px;">serie</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=cups" style="font-size:26px;line-height:28px;">cups</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=molasses" style="font-size:18px;line-height:20px;">molasses</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=cappuccio" style="font-size:15px;line-height:17px;">cappuccio</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=kids" style="font-size:23px;line-height:25px;">kids</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=james" style="font-size:21px;line-height:23px;">james</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=brasil" style="font-size:13px;line-height:15px;">brasil</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=tazzine" style="font-size:25px;line-height:27px;">tazzine</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=1990" style="font-size:11px;line-height:13px;">1990</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=inscription" style="font-size:14px;line-height:16px;">inscription</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=series" style="font-size:16px;line-height:18px;">series</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=born" style="font-size:13px;line-height:15px;">born</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=artistas" style="font-size:12px;line-height:14px;">artistas</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=wine" style="font-size:14px;line-height:16px;">wine</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=caff" style="font-size:23px;line-height:25px;">caff</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=speciale" style="font-size:27px;line-height:29px;">speciale</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=tazzina" style="font-size:29px;line-height:31px;">tazzina</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=coffee" style="font-size:24px;line-height:26px;">coffee</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=trazzi" style="font-size:16px;line-height:18px;">trazzi</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=swiss" style="font-size:22px;line-height:24px;">swiss</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=nasce" style="font-size:18px;line-height:20px;">nasce</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=illy" style="font-size:28px;line-height:30px;">illy</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=marina" style="font-size:9px;line-height:11px;">marina</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=thun" style="font-size:24px;line-height:26px;">thun</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=white" style="font-size:17px;line-height:19px;">white</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=matteo" style="font-size:21px;line-height:23px;">matteo</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=from" style="font-size:20px;line-height:22px;">from</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=barrels" style="font-size:9px;line-height:11px;">barrels</a>
+
+
+ <a href="http://www.joellipman.com/" target="_blank" style="font-size:8px;">JoelLipman.Com</a>	</p>
+</div>
+</div>
+			</div>
+		</div>
+	</div>
+	
+					</div>
+						
+					<div class="span9 main-column">
+							
+						
+<div id="system-message-container">
+</div>
+						<article class="item-page">
+
+
+	
+	
+
+
+	
+		<table style="width: 100%; border-color: #ffffff; border-style: solid; border-width: 0px; background-color: #ffffff;" border="0" cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="text-align: center; background-color: #ffffff;" colspan="7">
+<h1><span style="color: #ed1118;"><a href="/it/rhum/rum-classici.html" title="traditional rhum"><span style="color: #ed1118;">Rum Tradizionali</span></a> | <a href="/it/rhum/rum-agricoli.html" title="rhum agricole"><span title="classical rhum"><span style="color: #ed1118;">Rhum Agricole</span></span></a> | <span title="classical rhum"> <a href="/it/assenzio-altro/absinthe.html" title="absinthe"><span style="color: #ed1118;">Assenzio</span></a></span> | <span title="classical rhum"> <a href="/it/assenzio-altro/whisky.html" title="whisky"><span style="color: #ed1118;">Whisky</span></a></span> | <a href="/it/assenzio-altro/grappe.html" title="grappe"><span title="classical rhum"> <span style="color: #ed1118;">Grappe</span></span></a> | <span title="classical rhum"> <span title="classical rhum"><a href="/it/assenzio-altro/gin.html" title="gin"><span style="color: #ed1118;">Gin</span></a></span></span> |  <a href="/it/assenzio-altro/vodka.html" title="vodka"><span style="color: #ed1118;" title="classical rhum">Vodka</span></a> | <a href="/it/assenzio-altro/tequila.html" title="tequila"><span style="color: #ed1118;"><span title="classical rhum">Tequila</span></span></a></span></h1>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; background-color: #ffffff;" colspan="7">
+<p><span style="color: #ed1118;"><span style="color: #ed1118;">		<div class="moduletable">
+					
+<div id="gk-tabs-278" class="gkTabsGK5" data-config="{'activator':'click','animation':'0','animation_interval':'5000','animation_type':'opacity','active_tab':'1','cookie_save':'0','auto_height':'1','module_height':'200','rtl':'0'}" data-swipe="0">
+	<div class="gkTabsWrap vertical">
+	    	    <ol class="gkTabsNav">
+	    		    	
+	    		    		    	<li class="gkTab gkTabs-1 active" data-animation="default">
+	    		<span>	    			Vetrina	    		</span>	    	</li>
+	    		    		    	<li id="02" class="gkTab gkTabs-2" data-animation="default">
+	    		<span>	    			Pagamenti	    		</span>	    	</li>
+	    		    		    	<li id="03" class="gkTab gkTabs-3" data-animation="default">
+	    		<span>	    			Spedizioni	    		</span>	    	</li>
+	    		    		    	<li class="gkTab gkTabs-4" data-animation="default">
+	    		<span>	    			Assistenza Clienti	    		</span>	    	</li>
+	    		    		    	<li id="6" class="gkTab gkTabs-5" data-animation="default">
+	    		<span>	    			Facebook	    		</span>	    	</li>
+	    		    </ol>
+	    	                
+		<div class="gkTabsContainer">
+	    	
+<div class="gkTabsItem gk-opacity gk-active">
+	</div>
+<div class="gkTabsItem gk-opacity gk-hide">
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Pagamenti</title>
+  <meta property="og:title" content="Rumlife Shop - Illy Collection & Rum Pregiati"/>
+  <meta property="og:type" content="product"/>
+  <meta property="og:url" content="http://www.rumshop.it/"/>
+  <meta property="og:image" content="http://www.rumshop.it/images/logo_small.png" />
+  <meta property="og:description" content="Tazzine da collezione Illy Collection e rum pregiati vendita online" />
+  <meta property="og:site_name" content="Illy Collection & Rum Pregiati" />
+  <meta property="og:street-address" content="Via Ginnastica 46a"/>
+  <meta property="og:locality" content="Trieste"/>
+  <meta property="og:postal-code" content="34125"/>
+  <meta property="og:country-name" content="Italy"/>
+  <meta property="og:email" content="tntpub@gmail.com"/>
+  <meta property="og:phone_number" content="+39.040661116"/>
+  <meta property="fb:admins" content="179194505805"/>
+<style type="text/css">
+.cent {
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="4" class="cent">Sono a disposizione i seguenti metodi di pagamento :</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="cent"><img src="http://www.rumshop.it/images/stories/virtuemart/payment/paypal.png" alt="pay" width="90" /></td>
+    <td class="cent"><img src="http://www.rumshop.it/images/stories/virtuemart/payment/POSTE.png" alt="poste" width="90" /></td>
+    <td class="cent"><img src="http://www.rumshop.it/images/stories/virtuemart/payment/BONIFICO.png" alt="bonifico" width="90" /></td>
+    <td class="cent"><img src="http://www.rumshop.it/images/stories/virtuemart/payment/contrassegno.png" alt="contr" width="90" /></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="4">Per informazioni : TNT Pub SAS  Via Ginnastica 46/a  34125 Trieste  Tel.:+39 040 0642923 (pomeriggio)  email: <span id="cloak85810"><span id="cloak40578">Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak40578').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy40578 = 'tntp&#117;b' + '&#64;';
+ addy40578 = addy40578 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak40578').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy40578 + '\'>' + addy40578+'<\/a>';
+ //-->
+ </script></span></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+</div>
+<div class="gkTabsItem gk-opacity gk-hide">
+	<style type="text/css">
+.txtcent {
+	text-align: center;
+}
+</style>
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td width=5%>&nbsp;</td>
+    <td width=5%><img src="http://www.rumshop.it/images/shipping.png" alt="ship" width="45" height="45"></td>
+    <td width=25%><h5>Spedizioni nazionali</h5></td>
+    <td width=35%>CORRIERE ESPRESSO</td>
+    <td width=25%>€ 9,90 SEMPRE!</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="http://www.rumshop.it/images/international11.png" alt="ship2" width="45" height="45"></td>
+    <td><h5>Spedizioni internazionali</h5></td>
+    <td>CORRIERE ESPRESSO, PACCOCELERE INTERNAZIONALE, RACCOMANDATA</td>
+    <td><a href="http://www.rumshop.it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html">VEDI TABELLA</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><h5>Ritiro in loco</h5></td>
+    <td>Previo appuntamento telefonico  +39 040 0642923</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><h5>Elaborazione ordini</h5></td>
+    <td>Entro 24 h dalla ricezione del pagamento. Per pagamenti pervenuti entro le ore 12.00, l'ordine viene evaso il giorno stesso. NON EFFETTUIAMO SPEDIZIONI SABATO E DOMENICA.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3" class="txtcent"><img src="http://www.rumshop.it/images/opened4.png" alt="mail" width="35"> <span id="cloak72918">Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak72918').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy72918 = 'tntp&#117;b' + '&#64;';
+ addy72918 = addy72918 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak72918').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy72918 + '\'>' + addy72918+'<\/a>';
+ //-->
+ </script> <img src="http://www.rumshop.it/images/call36.png" alt="phone" width="35">+39 040 0642923  <img src="http://www.rumshop.it/images/social39.png" alt="skype" width="35"> TNT_PUB</td>
+  </tr>
+</table>
+</div>
+<div class="gkTabsItem gk-opacity gk-hide">
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+  <meta property="og:title" content="Rumlife Shop - Illy Collection & Rum Pregiati"/>
+  <meta property="og:type" content="product"/>
+  <meta property="og:url" content="http://www.rumshop.it/"/>
+  <meta property="og:image" content="http://www.rumshop.it/images/logo_small.png" />
+  <meta property="og:description" content="Tazzine da collezione Illy Collection e rum pregiati vendita online" />
+  <meta property="og:site_name" content="Illy Collection & Rum Pregiati" />
+  <meta property="og:street-address" content="Via Ginnastica 46a"/>
+  <meta property="og:locality" content="Trieste"/>
+  <meta property="og:postal-code" content="34125"/>
+  <meta property="og:country-name" content="Italy"/>
+  <meta property="og:email" content="tntpub@gmail.com"/>
+  <meta property="og:phone_number" content="+39.040661116"/>
+  <meta property="fb:admins" content="179194505805"/>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47746205-1', 'rumshop.it');
+  ga('send', 'pageview');
+
+</script></head>
+
+<body>
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td>&nbsp;</td>
+    <td><p>Per informazioni su prodotti, spedizioni, pagamenti o fatturazione:</p></td>
+    <td><img src="http://www.rumshop.it/images/email.png" alt="mail" height="25" width="25" /> <span id="cloak10526"><span id="cloak4676">Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak4676').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy4676 = 'tntp&#117;b' + '&#64;';
+ addy4676 = addy4676 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak4676').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy4676 + '\'>' + addy4676+'<\/a>';
+ //-->
+ </script></span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><img src="http://www.rumshop.it/images/old_telephone.png" alt="phone" height="25" width="25" /> +39.040.0642923</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><img src="http://www.rumshop.it/images/social39.png" alt="phone" height="25" width="25" /> TNT_PUB</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Per difficoltà nell'utilizzo del sito :</td>
+    <td><img src="http://www.rumshop.it/images/email.png" alt="mail" height="25" width="25" /> <span id="cloak34157"><span id="cloak10686">Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak10686').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy10686 = 's&#117;pp&#111;rt' + '&#64;';
+ addy10686 = addy10686 + 'r&#117;msh&#111;p' + '&#46;' + '&#105;t';
+ document.getElementById('cloak10686').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy10686 + '\'>' + addy10686+'<\/a>';
+ //-->
+ </script></span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+</div>
+<div class="gkTabsItem gk-opacity gk-hide">
+	
+
+<div class="custom"  >
+	<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 10%;"> </td>
+<td style="text-align: center;">		<div class="moduletable base">
+					<h3>Seguici su FB !</h3>
+					 
+
+			<!-- Top Navigation -->
+	
+  <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+    <div class="mod_facebook_widget_plus  base">
+
+	     <div class="fb-like-box" data-href="https://www.facebook.com/pages/RumLife/179194505805?fref=ts"
+         
+           data-width="550" 
+           data-height="550"
+           
+           
+                data-colorscheme="dark"
+                          
+              
+               data-show-faces="false"
+                          
+              
+               data-header="false" 
+                          
+               
+               data-show-border="false"
+                          
+             
+                            data-stream="true" 
+                          
+            
+             
+             
+        </div>
+	
+    </div>
+      
+		     
+		
+			
+			
+
+      		</div>
+	</td>
+<td style="width: 10%;"> </td>
+</tr>
+</tbody>
+</table></div>
+</div>	    </div>
+		
+			</div>
+		
+		<div class="gkTabsButtonNext">next</div>
+	<div class="gkTabsButtonPrev">prev</div>
+	</div>
+		</div>
+	</span></span></p>
+</td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> <span style="color: #ec534d;"> </span></td>
+<td style="border: 1px solid #da0f16; background-color: #ed1118; background-repeat: repeat-x; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5">
+<h2><img src="/images/coffe_w.png" border="0" width="50" style="vertical-align: middle;" />  <span style="font-size: small;"> <span style="color: #ffffff;"><strong><a href="/illy-collection.html" title="Categoria Illy"><span style="color: #ffffff;">Illy Collection - tazzine, edizioni speciali e limitate, moke dall'esclusivo design Illy</span></a></strong></span></span></h2>
+</td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center; width: 30%;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/illycollection/trazzine-detail.html" title="Serie Trazzine by Luca Trazzi"><img src="/images/stories/virtuemart/product/resized/trazzine_1_140x140.jpg" alt="Trazzine" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/illycollection/trazzine-detail.html">Serie Trazzine by Luca Trazzi</a>		<div class="clear"></div>810,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center; width: 30%;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/illycollection/spicchi-di-specchio-73-detail.html" title="Coffee Set Spicchi di Specchio by M. Pistoletto"><img src="/images/stories/virtuemart/product/resized/spicchi_specchio_coppia_1_140x140.jpg" alt="Spicchi di Specchio" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/illycollection/spicchi-di-specchio-73-detail.html">Coffee Set Spicchi di Specchio by M. Pistoletto</a>		<div class="clear"></div>120,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center; width: 30%;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/illycollection/tazzina-sogni-e-conflitti-detail.html" title="Tazzina Speciale Sogni e Conflitti by F. Bonami"><img src="/images/stories/virtuemart/product/resized/dreams_singola_1_140x140.jpg" alt="dreams_singola_1" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/illycollection/tazzina-sogni-e-conflitti-detail.html">Tazzina Speciale Sogni e Conflitti by F. Bonami</a>		<div class="clear"></div>115,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"><span style="color: #ec534d; font-size: medium;"> </span></td>
+<td style="border: 1px solid #da0f16; background-color: #ed1118; background-repeat: repeat-x; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5">
+<h2><span style="color: #ec534d; font-size: medium;"><span style="color: #ec534d; font-size: medium;"><img src="/images/glass.png" border="0" width="50" style="vertical-align: middle;" /><strong><span style="color: #ffffff;"> <a href="/rhum.html" title="Categoria Rum"><span style="color: #ffffff;">Rum - <span style="font-size: small;">rhum agricoli e classici, rari e pregiati, da tutto il mondo</span></span></a></span></strong></span></span></h2>
+</td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/rhum/rum-classici/rum-classico-zacapa-centenario-23-anni-solera-gran-reserva-nuova-edizione-detail.html" title="Rum Zacapa 23 y.o. Gran Reserva Solera - nuova edizione"><img src="/images/stories/virtuemart/product/resized/zacapa_solera_23_140x140.jpg" alt="Rum Zacapa 23 y.o. Gran Reserva Solera - nuova edizione" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/rhum/rum-classici/rum-classico-zacapa-centenario-23-anni-solera-gran-reserva-nuova-edizione-detail.html">Rum Zacapa 23 y.o. Gran Reserva Solera - nuova edizione</a>		<div class="clear"></div>61,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;">  		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/rhum/rum-classici/santiago-extra-anejo-20-anni-detail.html" title="Rum Santiago Extra Anejo 20 y.o."><img src="/images/stories/virtuemart/product/resized/santiago-de-cuba-extra-anejo_140x140.jpg" alt="Rum Santiago Extra Anejo 20 y.o." class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/rhum/rum-classici/santiago-extra-anejo-20-anni-detail.html">Rum Santiago Extra Anejo 20 y.o.</a>		<div class="clear"></div>122,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> <span style="color: #ec534d; font-size: medium;"><a href="/categorie/altri-distillati.html" title="Altri Distillati"></a><br /></span></td>
+<td style="border: 1px solid #da0f16; background-color: #ed1118; background-repeat: repeat-x; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5">
+<h2> <img src="/images/glass2.png" border="0" width="50" style="vertical-align: middle; margin-left: 4px; margin-right: 4px;" /><a href="/it/assenzio-altro.html" title="Altri Distillati"><strong><span style="color: #ffffff; font-size: medium;"><span style="color: #ffffff;">Altri Distillati - <span style="font-size: small;">Whisky, Assenzio e Grappe da collezione</span></span></span></strong></a></h2>
+</td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/assenzio-altro/grappe/grappa-nonino-anima-mundi-2000-detail.html" title="Grappa Nonino Anima Mundi 2000"><img src="/images/stories/virtuemart/product/resized/nonino_collezione_2000_140x140.jpg" alt="nonino_collezione_2000" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/assenzio-altro/grappe/grappa-nonino-anima-mundi-2000-detail.html">Grappa Nonino Anima Mundi 2000</a>		<div class="clear"></div>1350,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/assenzio-altro/whisky-isle-of-jura-10-y-o-detail.html" title="Whisky Isle of Jura 10 y.o."><img src="/images/stories/virtuemart/product/resized/jura_10_140x140.jpg" alt="jura_10" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/assenzio-altro/whisky-isle-of-jura-10-y-o-detail.html">Whisky Isle of Jura 10 y.o.</a>		<div class="clear"></div>38,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable ">
+					<div class="vmgroup ">
+
+
+<div class="vmproduct ">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/absinthe/assenzio-absinthe-la-fee-bohemian-70-detail.html" title="Assenzio Absinthe La Fee Bohemian 70°"><img src="/images/stories/virtuemart/product/resized/lafee_absinthe_70_140x140.jpg" alt="La Fèe Bohemian Absinth" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/absinthe/assenzio-absinthe-la-fee-bohemian-70-detail.html">Assenzio Absinthe La Fee Bohemian 70°</a>		<div class="clear"></div>50,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="border: 1px solid #da0f16; background-color: #ed1118; background-repeat: repeat-x; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5"><a href="/categorie/bicchieri-ed-accessori.html" title="Bicchieri vendita online"><span style="font-size: medium;"> <img src="/images/access.png" border="0" width="50" style="margin-left: 4px; margin-right: 4px; vertical-align: middle;" /></span></a><a href="/it/tutte-le-categorie/bicchieri.html" title="bicchieri"><span style="font-size: medium;"><strong><span style="color: #ffffff;">Bicchieri ed accessori</span></strong></span></a></td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center;">   		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-rum/bicchiere-da-rum-brugal-medio-detail.html" title="Bicchiere da rum Brugal medio"><img src="/images/stories/virtuemart/product/resized/brugal_medio_1_140x140.jpg" alt="Bicchiere Brugal" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-rum/bicchiere-da-rum-brugal-medio-detail.html">Bicchiere da rum Brugal medio</a>		<div class="clear"></div>4,50 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri/bicchiere-classico-pepsi-cola-detail.html" title="Bicchiere classico Pepsi Cola"><img src="/images/stories/virtuemart/product/resized/pepsi_140x140.jpg" alt="pepsi" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri/bicchiere-classico-pepsi-cola-detail.html">Bicchiere classico Pepsi Cola</a>		<div class="clear"></div>3,50 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/illycollection/illy-crossing-display-detail.html" title="Illy Crossing Display by Alessi"><img src="/images/stories/virtuemart/product/resized/xcross_illy_140x140.jpg" alt="xcross_illy" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/illycollection/illy-crossing-display-detail.html">Illy Crossing Display by Alessi</a>		<div class="clear"></div>42,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="border: 1px solid #da0f16; background-color: #ed1118; background-repeat: repeat-x; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5"><a href="/d-ancap.html" title="Porcellane D'Ancap"><img src="/images/set.png" border="0" width="50" style="vertical-align: middle; margin-left: 4px; margin-right: 4px;" /></a><strong><span style="font-size: small;"><a href="/d-ancap.html" title="Porcellane D'Ancap"> <span style="color: #ffffff;"> Porcellane D'Ancap</span></a></span></strong></td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/d-ancap/megamenu-dancap-tazze/espresso-set-serie-safari-moka-carina-730-detail.html" title="Espresso set Carina serie Safari"><img src="/images/stories/virtuemart/product/resized/set_carina_safari_2_1_140x140.jpg" alt="set_carina_safari_2_1" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/d-ancap/megamenu-dancap-tazze/espresso-set-serie-safari-moka-carina-730-detail.html">Espresso set Carina serie Safari</a>		<div class="clear"></div>85,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;">		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/porcellane-d-ancap/moka-carina-4-tazze-decoro-safari-detail.html" title="Moka Carina 4 tazze decoro Safari"><img src="/images/stories/virtuemart/product/resized/carina_4tz_safari_1_140x140.jpg" alt="carina_4tz_safari_1" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/porcellane-d-ancap/moka-carina-4-tazze-decoro-safari-detail.html">Moka Carina 4 tazze decoro Safari</a>		<div class="clear"></div>65,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;">		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/porcellane-d-ancap/zuccheriera-serie-note-e-sentimenti-detail.html" title="Zuccheriera Serie Note e Sentimenti"><img src="/images/stories/virtuemart/product/resized/zuccheriera_note_1_140x140.jpg" alt="zuccheriera note e sentimenti" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/porcellane-d-ancap/zuccheriera-serie-note-e-sentimenti-detail.html">Zuccheriera Serie Note e Sentimenti</a>		<div class="clear"></div>23,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="border-color: #da0f16; border-style: solid; border-width: 1px; background-color: #ed1118; moz-box-shadow: 4px 4px 0px #888888; /* a partire da firefox 3.6 */webkit-box-shadow: 4px 4px 2px #888888; /* safari and chrome */box-shadow: 4px 4px 2px #888888;" colspan="5"><span style="font-size: medium;"><img src="/images/gift.png" border="0" width="50" style="vertical-align: middle; margin-left: 4px; margin-right: 4px;" /><span style="color: #ffffff;"><strong><span style="font-size: small;"><a href="/it/tutte-le-categorie/confezioni-regalo.html" title="Confezioni regalo"><span style="color: #ffffff;">Confezioni Regalo</span></a> ed <a href="/it/tutte-le-categorie/articoli-da-collezione.html"><span style="color: #ffffff;">Articoli da Collezione</span></a></span></strong></span></span></td>
+<td style="background-color: #ffffff;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/assenzio-altro/grappe/nonino-grappa-monovitigno-di-picolit-collezione-venini-1996-detail.html" title="Nonino - Grappa monovitigno di Picolit Collezione Venini 1996"><img src="/images/stories/virtuemart/product/resized/nonino_collezione_1996_140x140.jpg" alt="nonino_collezione_1996" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/assenzio-altro/grappe/nonino-grappa-monovitigno-di-picolit-collezione-venini-1996-detail.html">Nonino - Grappa monovitigno di Picolit Collezione Venini 1996</a>		<div class="clear"></div>1650,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/assenzio-altro/grappe/acquavite-d-uva-monovitigno-picolit-by-nonino-detail.html" title="Acquavite d'Uva Monovitigno Picolit by Nonino - collezione 2001"><img src="/images/stories/virtuemart/product/resized/nonino_collezione_2001_140x140.jpg" alt="nonino_collezione_2001" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/assenzio-altro/grappe/acquavite-d-uva-monovitigno-picolit-by-nonino-detail.html">Acquavite d'Uva Monovitigno Picolit by Nonino - collezione 2001</a>		<div class="clear"></div>1350,00 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 		<div class="moduletable">
+					<div class="vmgroup">
+
+
+<div class="vmproduct">
+	<div style="text-align:center;"><div class="spacer">
+<a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri/portaghiaccio-brugal-detail.html" title="Portaghiaccio Brugal"><img src="/images/stories/virtuemart/product/resized/portaghiaccio_brugal_1_140x140.jpg" alt="portaghiaccio_brugal_1" class="featuredProductImage" border="0" /></a><div class="clear"></div>		<a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri/portaghiaccio-brugal-detail.html">Portaghiaccio Brugal</a>		<div class="clear"></div>39,50 € </div></div>
+
+	</div>
+</div>		</div>
+	</td>
+<td style="text-align: center;"> </td>
+</tr>
+</tbody>
+</table> 
+				<ul class="pagenav">
+					<li class="pagenav-prev">
+						<a href="/it/tazzine-illy-e-rum-pregiati/cookie-policy.html" rel="prev">&lt; Prec</a>
+					</li>
+				</ul>
+	
+	<div class="itp-social-buttons-box"><div class="itp-sbb-bothl"><div class="itp-sb-left"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.rumshop.it%2Fit.html&amp;title=Vetrina" title="Submit to Digg" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/digg.png" alt="Submit to Digg" /></a><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.rumshop.it%2Fit.html&amp;t=Vetrina" title="Submit to Facebook" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/facebook.png" alt="Submit to Facebook" /></a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.rumshop.it%2Fit.html" title="Submit to Google Plus" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/google.png" alt="Submit to Google Plus" /></a><a href="http://twitter.com/share?text=Vetrina&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit.html" title="Submit to Twitter" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/twitter.png" alt="Submit to Twitter" /></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit.html&amp;title=Vetrina" title="Submit to LinkedIn" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/linkedin.png" alt="Submit to LinkedIn" /></a></div></div></div></article>
+
+
+
+												<div class="row-fluid">					
+								
+	<div class="moduletable base span4">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Devi fare un regalo?</h3>
+								<div class="modulcontent">
+
+<div class="custombase"  >
+	<p>Segnalacelo durante l'acquisto, ci occuperemo noi della confezione regalo !</p></div>
+</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="moduletable dark span4">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Sei un professionista della ristorazione?</h3>
+								<div class="modulcontent">
+
+<div class="customdark"  >
+	<p>Segnalacelo dopo esserti registrato, per vedere le tariffe a te riservate!</p></div>
+</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="moduletable base span4">	
+		<div class="mods">	
+			<div class="bghelper">
+								<div class="modulcontent">﻿﻿﻿<iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/pages/RumLife/179194505805&amp;width=200&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23000000&amp;stream=false&amp;header=true&amp;height=400" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:400px;"></iframe></div>
+			</div>
+		</div>
+	</div>
+	
+						</div>
+													
+					</div>	
+										<div class="span3 left-mod visible-phone">
+							<div class="moduletable ">
+		<div class="mods">
+			<div class="bghelper">
+								<div class="modulcontent"><noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+
+
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'it', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('it|it');return false;" title="Italian" class="flag nturl" style="background-position:-600px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Italian" /></a> <a href="#" onclick="doGTranslate('it|nl');return false;" title="Dutch" class="flag nturl" style="background-position:-0px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Dutch" /></a> <a href="#" onclick="doGTranslate('it|en');return false;" title="English" class="flag nturl" style="background-position:-0px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="English" /></a> <a href="#" onclick="doGTranslate('it|fr');return false;" title="French" class="flag nturl" style="background-position:-200px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="French" /></a> <a href="#" onclick="doGTranslate('it|de');return false;" title="German" class="flag nturl" style="background-position:-300px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="German" /></a> <a href="#" onclick="doGTranslate('it|ja');return false;" title="Japanese" class="flag nturl" style="background-position:-700px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Japanese" /></a> <a href="#" onclick="doGTranslate('it|pt');return false;" title="Portuguese" class="flag nturl" style="background-position:-300px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Portuguese" /></a> <a href="#" onclick="doGTranslate('it|ru');return false;" title="Russian" class="flag nturl" style="background-position:-500px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Russian" /></a> <a href="#" onclick="doGTranslate('it|es');return false;" title="Spanish" class="flag nturl" style="background-position:-600px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Spanish" /></a> <br/><select onchange="doGTranslate(this);"><option value="">Select Language</option><option style="font-weight:bold;" value="it|it">Italian</option><option  value="it|af">Afrikaans</option><option  value="it|sq">Albanian</option><option  value="it|ar">Arabic</option><option  value="it|hy">Armenian</option><option  value="it|az">Azerbaijani</option><option  value="it|eu">Basque</option><option  value="it|be">Belarusian</option><option  value="it|bg">Bulgarian</option><option  value="it|ca">Catalan</option><option  value="it|zh-CN">Chinese (Simplified)</option><option  value="it|zh-TW">Chinese (Traditional)</option><option  value="it|hr">Croatian</option><option  value="it|cs">Czech</option><option  value="it|da">Danish</option><option  value="it|nl">Dutch</option><option  value="it|en">English</option><option  value="it|et">Estonian</option><option  value="it|tl">Filipino</option><option  value="it|fi">Finnish</option><option  value="it|fr">French</option><option  value="it|gl">Galician</option><option  value="it|ka">Georgian</option><option  value="it|de">German</option><option  value="it|el">Greek</option><option  value="it|ht">Haitian Creole</option><option  value="it|iw">Hebrew</option><option  value="it|hi">Hindi</option><option  value="it|hu">Hungarian</option><option  value="it|is">Icelandic</option><option  value="it|id">Indonesian</option><option  value="it|ga">Irish</option><option  value="it|ja">Japanese</option><option  value="it|ko">Korean</option><option  value="it|lv">Latvian</option><option  value="it|lt">Lithuanian</option><option  value="it|mk">Macedonian</option><option  value="it|ms">Malay</option><option  value="it|mt">Maltese</option><option  value="it|no">Norwegian</option><option  value="it|fa">Persian</option><option  value="it|pl">Polish</option><option  value="it|pt">Portuguese</option><option  value="it|ro">Romanian</option><option  value="it|ru">Russian</option><option  value="it|sr">Serbian</option><option  value="it|sk">Slovak</option><option  value="it|sl">Slovenian</option><option  value="it|es">Spanish</option><option  value="it|sw">Swahili</option><option  value="it|sv">Swedish</option><option  value="it|th">Thai</option><option  value="it|tr">Turkish</option><option  value="it|uk">Ukrainian</option><option  value="it|ur">Urdu</option><option  value="it|vi">Vietnamese</option><option  value="it|cy">Welsh</option><option  value="it|yi">Yiddish</option></select></div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Categorie del negozio</h3>
+								<div class="modulcontent"><div class="sp-vmmenu light" id="sp-vmmenu-398">
+    <ul>
+        <li class="parent"><a href="/it/illycollection.html">Illy Collection<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-13"><li><h5><a href="/it/illy-collection/illy-serie.html"  data-deep="1">Illy Collection Serie</a></h5></li><li><h5><a href="/it/illy-collection/illy-tazzine-singole.html"  data-deep="1">Illy Collection Singole</a></h5></li><li><h5><a href="/it/illycollection/illy-tazzine-espresso.html"  data-deep="1">Illy Tazzine Espresso</a></h5></li><li><h5><a href="/it/illycollection/illy-tazze-cappuccio.html"  data-deep="1">Illy Tazze Cappuccino</a></h5></li><li><h5><a href="/it/illy-collection/barattoli.html"  data-deep="1">Barattoli</a></h5></li><li><h5><a href="/it/illy-collection/moke-illy.html"  data-deep="1">Moke</a></h5></li><li><h5><a href="/it/illy-collection/altro-illy.html"  data-deep="1">Accessori Illy</a></h5></li><li><h5><a href="/it/illy-collection/illy-anno-per-anno.html"  data-deep="1">Anno per Anno</a></h5><ul class="sp-vmcol-5"><li><a href="/it/illy-collection/illy-anno-per-anno/1990-1995-en.html">1990 - 1995</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/1996-2000.html">1996 - 2000</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2001-2005.html">2001 - 2005</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2006-2010.html">2006 - 2010</a></li><li><a href="/it/illy-collection/illy-anno-per-anno/2011-2014.html">2011 - 2014</a></li></ul></li><li><h5><a href="/it/illycollection/illy-collection-en.html"  data-deep="1">Illy Collection</a></h5></li><li><h5><a href="/it/illycollection/illy-art-collection-serie.html"  data-deep="1">Illy Art Collection</a></h5></li><li><h5><a href="/it/illy-collection/illy-espresso.html"  data-deep="1">Illy Espresso</a></h5></li><li><h5><a href="/it/illycollection/amici-collection-serie.html"  data-deep="1">Amici Collection serie</a></h5></li><li><h5><a href="/it/illy-collection/illy-artists.html"  data-deep="1">Illy Artists</a></h5><ul class="sp-vmcol-26"><li><a href="/it/illy-collection/illy-artists/j-m-subirachs.html">J.M. Subirachs</a></li><li><a href="/it/illy-collection/illy-artists/j-rosenquist.html">J. Rosenquist</a></li><li><a href="/it/illy-collection/illy-artists/jan-fabre.html">Jan Fabre</a></li><li><a href="/it/illy-collection/illy-artists/jannis-kounellis.html">Jannis Kounellis</a></li><li><a href="/it/illy-collection/illy-artists/jean-koop.html">Jean Koop</a></li><li><a href="/it/illy-collection/illy-artists/a-r-penck.html">A. R. Penck</a></li><li><a href="/it/illy-collection/illy-artists/jeff-koons.html">Jeff Koons</a></li><li><a href="/it/illy-collection/illy-artists/an-du.html">An Du</a></li><li><a href="/it/illy-collection/illy-artists/joep-van-lieshout.html">Joep van Lieshout</a></li><li><a href="/it/illy-collection/illy-artists/daniel-buren.html">Daniel Buren</a></li><li><a href="/it/illy-collection/illy-artists/julian-schnabel.html">Julian Schnabel</a></li><li><a href="/it/illy-collection/illy-artists/darryll-pottorf.html">Darryl Pottorf</a></li><li><a href="/it/illy-collection/illy-artists/joseph-kosuth.html">Joseph Kosuth</a></li><li><a href="/it/illy-collection/illy-artists/davbid-byrne.html">David Byrne</a></li><li><a href="/it/illy-collection/illy-artists/luca-trazzi.html">Luca Trazzi</a></li><li><a href="/it/illy-collection/illy-artists/emanuele-luzzati.html">Emanuele Luzzati</a></li><li><a href="/it/illy-collection/illy-artists/louise-bourgeois.html">Louise Bourgeois</a></li><li><a href="/it/illy-collection/illy-artists/eric-mac-pherson.html">Eric Mac Pherson</a></li><li><a href="/it/illy-collection/illy-artists/maria-joao-calisto.html">Maria Joao Calisto</a></li><li><a href="/it/illy-collection/illy-artists/federico-fellini.html">Federico Fellini</a></li><li><a href="/it/illy-collection/illy-artists/marina-abramovic.html">Marina Abramovic</a></li><li><a href="/it/illy-collection/illy-artists/francesco-bonami.html">Francesco Bonami</a></li><li><a href="/it/illy-collection/illy-artists/marino-marini.html">Marino Marini</a></li><li><a href="/it/illy-collection/illy-artists/f-f-coppola.html">F. F. Coppola</a></li><li><a href="/it/illy-collection/illy-artists/mario-giacomelli-en.html">Mario Giacomelli</a></li><li><a href="/it/illy-collection/illy-artists/haim-steinbach.html">Haim Steinbach</a></li></ul></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-1"
+                            data-position="sp-vmcategorymenu-1"></div></li></ul></li><li class="parent"><a href="/it/porcellane-d-ancap.html">Coffee Set d'Ancap<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-6"><li><h5><a href="/it/d-ancap/megamenu-dancap-tazze.html"  data-deep="1">Tazze d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-zuccherieredancap.html"  data-deep="1">Zuccheriere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-illy-dancap-lattiere.html"  data-deep="1">Lattiere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-teieredancap.html"  data-deep="1">Teiere d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/megamenu-dancap-moke.html"  data-deep="1">Moke d'Ancap</a></h5></li><li><h5><a href="/it/d-ancap/scegli-per-decoro.html"  data-deep="1">Decori</a></h5><ul class="sp-vmcol-11"><li><a href="/it/d-ancap/scegli-per-decoro/girasole-innamorato.html">Girasole Innamorato</a></li><li><a href="/it/d-ancap/scegli-per-decoro/oriente.html">Oriente</a></li><li><a href="/it/d-ancap/scegli-per-decoro/stella-alpina.html">Stella Alpina</a></li><li><a href="/it/d-ancap/scegli-per-decoro/righe-vagabonde.html">Righe Vagabonde</a></li><li><a href="/it/d-ancap/scegli-per-decoro/internetmania.html">Internetmania</a></li><li><a href="/it/d-ancap/scegli-per-decoro/scelta-commerciale.html">Scelta Commerciale</a></li><li><a href="/it/d-ancap/scegli-per-decoro/il-mondo-in-una-lettera.html">Il mondo in una Lettera</a></li><li><a href="/it/d-ancap/scegli-per-decoro/storie-di-viaggi.html">Storie di Viaggi</a></li><li><a href="/it/d-ancap/scegli-per-decoro/note-e-sentimenti.html">Note e Sentimenti</a></li><li><a href="/it/d-ancap/scegli-per-decoro/safari.html">Safari</a></li><li><a href="/it/d-ancap/scegli-per-decoro/bella-italia.html">Bella Italia</a></li></ul></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-2"
+                            data-position="sp-vmcategorymenu-2"></div></li></ul></li><li class="parent"><a href="/it/rum.html">Rhum<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-4"><li><h5><a href="/it/rhum/rum-classici.html"  data-deep="1">Rum Classici</a></h5><ul class="sp-vmcol-2"><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza.html">Per provenienza</a><ul class="sp-vmcol-12"><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/barbados.html">Barbados</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/giamaica.html">Giamaica</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/guatemala.html">Guatemala</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/guyana.html">Guyana</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/nicaragua.html">Nicaragua</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/panama.html">Panama</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/santo-domingo.html">Santo Domingo</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/spagna.html">Spagna</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/trinidad-tobago.html">Trinidad & Tobago</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/venezuela.html">Venezuela</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/santa-lucia.html">Santa Lucia</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-provenienza/altri-paesi.html">Altri Paesi</a></li></ul></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento.html">Per invecchiamento</a><ul class="sp-vmcol-7"><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-3-anni.html">Fino a 3 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-5-anni.html">Fino a 5 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-7-anni.html">Fino a 7 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/up-to-10-yo.html">Fino a 10 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-15-anni.html">Fino a 15 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/fino-a-20-anni.html">Fino a 20 anni</a></li><li><a href="/it/rhum/rum-classici/seleziona-per-invecchiamento/oltre-20-anni.html">Oltre 20 anni</a></li></ul></li></ul></li><li><h5><a href="/it/rhum/rum-agricoli.html"  data-deep="1">Rum Agricoli</a></h5><ul class="sp-vmcol-2"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza.html">Per provenienza</a><ul class="sp-vmcol-10"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/panama-1.html">Panama</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/brasile.html">Brasile</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/giamaica-1.html">Giamaica</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/haiti.html">Haiti</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/spagna-1.html">Spagna</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/guyana-1.html">Guyana</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/martinica.html">Martinica</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/nicaragua-1.html">Nicaragua</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/ile-de-la-reunion.html">Ile de la Reunion</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-provenienza/guadalupe.html">Guadalupe</a></li></ul></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento.html">Per invecchiamento</a><ul class="sp-vmcol-7"><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-3-anni-1.html">Fino a 3 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-5-anni-1.html">Fino a 5 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/fino-a-7-anni-1.html">Fino a 7 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-10-anni-di-invecchiamento.html">Fino a 10 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-15-anni-di-invecchiamento.html">Fino a 15 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-20-anni-di-invecchiamento.html">Fino a 20 anni</a></li><li><a href="/it/rhum/rum-agricoli/rum-agricoli-per-invecchiamento/rum-agricoli-oltre-20-anni-di-invecchiamento.html">Oltre 20 anni</a></li></ul></li></ul></li><li><h5><a href="/it/rhum/rum-speziati.html"  data-deep="1">Rum Speziati</a></h5></li><li><h5><a href="/it/rhum/selezioni-di-rum.html"  data-deep="1">Selezioni di Rum</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-3"
+                            data-position="sp-vmcategorymenu-3"></div></li></ul></li><li class="parent"><a href="/it/assenzio-altro.html">Altri Distillati<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-6"><li><h5><a href="/it/absinthe.html"  data-deep="1">Assenzio</a></h5></li><li><h5><a href="/it/assenzio-altro/gin.html"  data-deep="1">Gin</a></h5></li><li><h5><a href="/it/assenzio-altro/grappe.html"  data-deep="1">Grappe</a></h5></li><li><h5><a href="/it/assenzio-altro/tequila.html"  data-deep="1">Tequila</a></h5></li><li><h5><a href="/it/assenzio-altro/vodka.html"  data-deep="1">Vodka</a></h5></li><li><h5><a href="/it/whiskey.html"  data-deep="1">Whisky</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-4"
+                            data-position="sp-vmcategorymenu-4"></div></li></ul></li><li class="parent"><a href="/it/tutte-le-categorie/bicchieri.html">Bicchieri<i class="icon-angle-right pull-right"></i></a><ul class="sp-vmcol-3"><li><h5><a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-rum.html"  data-deep="1">Bicchieri da Rum</a></h5></li><li><h5><a href="/it/tutte-le-categorie/bicchieri/bicchieri-da-birra.html"  data-deep="1">Bicchieri da Birra</a></h5></li><li><h5><a href="/it/tutte-le-categorie/bicchieri/altri-bicchieri.html"  data-deep="1">Altri Bicchieri</a></h5></li><li class="sp-vmcategorymenu-module-wrapper"><div class="sp-vmcategorymenu-module inc-5"
+                            data-position="sp-vmcategorymenu-5"></div></li></ul></li><li><a href="/it/tutte-le-categorie/coca-cola.html">Coca Cola</a></li><li><a href="/it/tutte-le-categorie/articoli-da-collezione.html">Articoli da collezione</a></li><li><a href="/it/tutte-le-categorie/confezioni-regalo.html">Confezioni Regalo</a></li>    </ul>
+</div>
+
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable base">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Account </h3>
+								<div class="modulcontent">	<table cellpadding="0" cellspacing="0" class="moduletabledark">
+			<tr>
+			<td>
+				<form action="/it.html" method="post" id="login-form">
+        <fieldset class="userdata">
+			<div class="control-group">
+        <label id="form-login-username" for="modlgn-username">Nome utente</label>
+				<div class="controls">
+					<div class="input-prepend">
+						<span class="add-on"><i class="icon-user"></i></span>
+						<input id="modlgn-username" type="text" name="username" class="span8" size="18" />
+					</div>
+				</div>
+        <label id="form-login-password" for="modlgn-passwd">Password</label>
+				<div class="controls">
+					<div class="input-prepend">
+						<span class="add-on"><i class="icon-lock"></i></span>
+						<input id="modlgn-passwd" type="password" name="password" class="span8" size="18" />
+					</div>
+				</div>				
+
+                <label id="form-login-remember" class="checkbox inline" for="modlgn-remember">
+            <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" />
+						Ricordami        </label>
+        				<div class="clear"></div>
+        <input type="submit" name="Submit" class="login-button btn btn-small" value="Accedi" />
+        <input type="hidden" name="option" value="com_users" />
+        <input type="hidden" name="task" value="user.login" />
+        <input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xMDE=" />
+        <input type="hidden" name="a25916c41e4e1639399e3bd51ef45aee" value="1" />			</div>
+    </fieldset>
+    <ul>
+        <li>
+            <a href="/it/registrati-o-accedi.html?view=reset">
+                Password dimenticata?</a>
+        </li>
+        <li>
+            <a href="/it/registrati-o-accedi.html?view=remind">
+                Nome utente dimenticato?</a>
+        </li>
+                    <li>
+                <a href="/it/registrati-o-accedi.html">
+                    Registrati</a>
+            </li>
+                </ul>
+    </form>
+			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				
+
+<div class="custom"  >
+	<table style="border-width: 0px; width: 100%;" border="0" cellspacing="2">
+<tbody>
+<tr>
+<td style="text-align: center;" align="center" valign="middle"><hr />
+<h4><span style="font-size: 1em; font-weight: normal; line-height: 15px;">Sei un operatore della ristorazione?</span></h4>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #cccccc; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; text-align: center; background-color: #333333;"><a href="/it/tazzine-illy-e-rum-pregiati/registrazione-aziende.html" title="Registrazione Aziende"><strong>Registrati come utente professionale  </strong></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">per vedere i prezzi riservati ai professionisti.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><hr /></td>
+</tr>
+</tbody>
+</table></div>
+			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<ul class="side-menu" id="3">
+<li class="item-337"><a href="/it/i-miei-ordini.html" >I miei ordini</a></li></ul>
+			</td>
+		</tr>
+		</table>
+	</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable base">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Illy e l'arte</h3>
+								<div class="modulcontent"><ul class="side-menu">
+<li class="item-527 deeper parent"><span class="separator">Illy Artists</span>
+<ul class="submenu sublevel-1"><li class="item-525"><a href="/it/gli-artisti-per-illy/matteo-thun.html" >Matteo Thun</a></li><li class="item-526"><a href="/it/gli-artisti-per-illy/luca-trazzi.html" >Luca Trazzi</a></li><li class="item-530"><a href="/it/gli-artisti-per-illy/david-byrne.html" >David Byrne</a></li><li class="item-555"><a href="/it/gli-artisti-per-illy/marina-abramovic.html" >Marina Abramovic</a></li><li class="item-557"><a href="/it/gli-artisti-per-illy/james-rosenquist.html" >James Rosenquist</a></li><li class="item-560"><a href="/it/gli-artisti-per-illy/jean-fabre.html" >Jean Fabre</a></li></ul></li><li class="item-528"><span class="separator">Le Iniziative</span>
+</li></ul>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Registrati alla Newsletter !</h3>
+								<div class="modulcontent"><div class="acymailing_modulelight" id="acymailing_module_formAcymailing29611">
+		<div class="acymailing_mootoolsbutton" id="acymailing_toggle_formAcymailing29611" >
+			<p><a class="acymailing_togglemodule" id="acymailing_togglemodule_formAcymailing29611" href="#subscribe">Iscriviti</a></p>
+		<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing29611"  >
+		<form id="formAcymailing29611" action="/it.html" onsubmit="return submitacymailingform('optin','formAcymailing29611')" method="post" name="formAcymailing29611"  >
+		<div class="acymailing_module_form" >
+									<table class="acymailing_form">
+				<tr>
+												<td class="acyfield_name acy_requiredField">
+								<input id="user_name_formAcymailing29611"  onfocus="if(this.value == 'Nome') this.value = '';" onblur="if(this.value=='') this.value='Nome';" class="inputbox" type="text" name="user[name]" style="width:80%" value="Nome" title="Nome"/>
+							</td> </tr><tr>							<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing29611"  onfocus="if(this.value == 'Email') this.value = '';" onblur="if(this.value=='') this.value='Email';" class="inputbox" type="text" name="user[email]" style="width:80%" value="Email" title="Email"/>
+							</td> </tr><tr>
+
+					
+					<td  class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="Iscriviti" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing29611'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</td>
+				</tr>
+			</table>
+						<input type="hidden" name="ajax" value="0" />
+			<input type="hidden" name="acy_source" value="module_273" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.rumshop.it%2F"/>
+			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.rumshop.it%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing29611" />
+									</div>
+		</form>
+	</div>
+	 </div> </div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable dark">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Contatti </h3>
+								<div class="modulcontent">
+
+<div class="customdark"  >
+	<p><a href="/homepage/contatti.html" target="_blank" title="Contact mail"><img src="/images/email.png" border="0" alt="mail contact" title="Contact mail" width="35" style="margin: 2px 4px; vertical-align: middle;" /></a> <a href="mailto:tntpub@gmail.com" title="contatto mail">tntpub@gmail.com</a></p>
+<p><img src="/images/old_telephone.png" border="0" alt="telefono" title="telefono" width="35" style="vertical-align: middle; margin: 2px 4px;" />+39.<a href="tel:3351326124" target="_blank" style="color: #1155cc; font-family: arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;">335.1326124</a></p>
+<p><img src="/images/address_book.png" border="0" alt="contatti" title="indirizzo" width="35" style="margin: 2px 4px; float: left;" />TNT Pub SAS<br />Via Ginnastica 46/a<br />34125 Trieste</p>
+<p><a href="https://plus.google.com/u/0/111707959979377042321?rel=author"><img src="/images/google.png" border="0" alt="google" title="google plus" width="35" height="35" style="margin: 2px 4px; float: left;" />Google +</a></p></div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable dark">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Spese di Spedizione</h3>
+								<div class="modulcontent">
+
+<div class="customdark"  >
+	<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td colspan="2">
+<p style="text-align: center;"><span style="font-size: large;"><strong><span style="color: #ffcc00;">In tutta Italia</span> <span style="color: #ffcc00;">fino a 30 kg.</span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p style="text-align: center;"><span style="font-size: medium;"><strong>SEMPRE</strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h4 style="text-align: center;"><img src="/images/corriere.png" border="0" alt="spedizioni" title="corriere espresso" width="175" /></h4>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><a href="http://rumshop.it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" title="Costi spedizioni Internazionali">Spedizioni Internazionali</a><br /><strong><span style="color: #ffff00;"><a href="http://rumshop.it/tazzine-illy-e-rum-pregiati/spedizioni-internazionali.html" title="Costi spedizioni Internazionali"><span style="color: #ffff00;">Verifica Zone e Tariffe</span></a></span></strong></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable ">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>Rss Feed</h3>
+								<div class="modulcontent"></div>
+			</div>
+		</div>
+	</div>
+		<div class="moduletable light">
+		<div class="mods">
+			<div class="bghelper">
+									<h3>RumTag</h3>
+								<div class="modulcontent">
+<div id="joeswordcloud" class="light">
+	<p style="text-align:center">
+	
+
+
+<a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=collection" style="font-size:26px;line-height:28px;">collection</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=abramovic" style="font-size:8px;line-height:10px;">abramovic</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=arti" style="font-size:8px;line-height:10px;">arti</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=arte" style="font-size:19px;line-height:21px;">arte</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=michael" style="font-size:10px;line-height:12px;">michael</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=rosenquist" style="font-size:19px;line-height:21px;">rosenquist</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=sugar" style="font-size:11px;line-height:13px;">sugar</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=serie" style="font-size:28px;line-height:30px;">serie</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=cups" style="font-size:26px;line-height:28px;">cups</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=molasses" style="font-size:18px;line-height:20px;">molasses</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=cappuccio" style="font-size:15px;line-height:17px;">cappuccio</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=kids" style="font-size:23px;line-height:25px;">kids</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=james" style="font-size:21px;line-height:23px;">james</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=brasil" style="font-size:13px;line-height:15px;">brasil</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=tazzine" style="font-size:25px;line-height:27px;">tazzine</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=1990" style="font-size:11px;line-height:13px;">1990</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=inscription" style="font-size:14px;line-height:16px;">inscription</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=series" style="font-size:16px;line-height:18px;">series</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=born" style="font-size:13px;line-height:15px;">born</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=artistas" style="font-size:12px;line-height:14px;">artistas</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=wine" style="font-size:14px;line-height:16px;">wine</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=caff" style="font-size:23px;line-height:25px;">caff</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=speciale" style="font-size:27px;line-height:29px;">speciale</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=tazzina" style="font-size:29px;line-height:31px;">tazzina</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=coffee" style="font-size:24px;line-height:26px;">coffee</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=trazzi" style="font-size:16px;line-height:18px;">trazzi</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=swiss" style="font-size:22px;line-height:24px;">swiss</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=nasce" style="font-size:18px;line-height:20px;">nasce</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=illy" style="font-size:28px;line-height:30px;">illy</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=marina" style="font-size:9px;line-height:11px;">marina</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=thun" style="font-size:24px;line-height:26px;">thun</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=white" style="font-size:17px;line-height:19px;">white</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=matteo" style="font-size:21px;line-height:23px;">matteo</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=from" style="font-size:20px;line-height:22px;">from</a> <a href="http://www.rumshop.it/?option=com_search&amp;amp;searchword=barrels" style="font-size:9px;line-height:11px;">barrels</a>
+
+
+ <a href="http://www.joellipman.com/" target="_blank" style="font-size:8px;">JoelLipman.Com</a>	</p>
+</div>
+</div>
+			</div>
+		</div>
+	</div>
+	
+					</div>
+										
+										
+				</div>
+								<div class="bottom1-modules row-fluid">
+						
+	<div class="moduletable light span12">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Newsflash!</h3>
+								<div class="modulcontent"><div class="newsflashlight">
+	
+	<h5 class="newsflash-titlelight">
+			Zacapa a tavola		</h5>
+
+
+<div class="itp-social-buttons-box"><div class="itp-sbb-bothl"><div class="itp-sb-left"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F98-zacapa-a-tavola.html&amp;title=Zacapa%20a%20tavola" title="Submit to Digg" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/digg.png" alt="Submit to Digg" /></a><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F98-zacapa-a-tavola.html&amp;t=Zacapa%20a%20tavola" title="Submit to Facebook" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/facebook.png" alt="Submit to Facebook" /></a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F98-zacapa-a-tavola.html" title="Submit to Google Plus" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/google.png" alt="Submit to Google Plus" /></a><a href="http://twitter.com/share?text=Zacapa%20a%20tavola&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F98-zacapa-a-tavola.html" title="Submit to Twitter" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/twitter.png" alt="Submit to Twitter" /></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F98-zacapa-a-tavola.html&amp;title=Zacapa%20a%20tavola" title="Submit to LinkedIn" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/linkedin.png" alt="Submit to LinkedIn" /></a></div></div></div>
+
+<p><a href="/it/rhum/rum-classici/rum-classico-zacapa-23-y-vecchia-edizione-1-lt-detail.html" title="rum zacapa"></a>Continuiamo il nostro escursus sulle possibilità di incontro tra il rum ed i piaceri della tavola. Questa volta prendiamo ispirazione da un grande chef, <strong>Massimiliano Alajmo</strong>, chef patron di Le Calandre, ristorante tre stelle Michelin inserito nella lista dei World's 50 Best Restaurants, che ha ideato una cena esperienziale per Zacapa. Dal sito Zacapa, vi proponiamo il menù completo. Da leccarsi i baffi...</p>
+
+<a class="readmore" href="/it/news/50-rum-news/98-zacapa-a-tavola.html">Leggi tutto...</a>	
+	<h5 class="newsflash-titlelight">
+			Jannis Kounellis		</h5>
+
+
+<div class="itp-social-buttons-box"><div class="itp-sbb-bothl"><div class="itp-sb-left"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F49-illy-news%2F97-jannis-kounellis.html&amp;title=Jannis%20Kounellis" title="Submit to Digg" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/digg.png" alt="Submit to Digg" /></a><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F49-illy-news%2F97-jannis-kounellis.html&amp;t=Jannis%20Kounellis" title="Submit to Facebook" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/facebook.png" alt="Submit to Facebook" /></a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F49-illy-news%2F97-jannis-kounellis.html" title="Submit to Google Plus" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/google.png" alt="Submit to Google Plus" /></a><a href="http://twitter.com/share?text=Jannis%20Kounellis&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F49-illy-news%2F97-jannis-kounellis.html" title="Submit to Twitter" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/twitter.png" alt="Submit to Twitter" /></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F49-illy-news%2F97-jannis-kounellis.html&amp;title=Jannis%20Kounellis" title="Submit to LinkedIn" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/linkedin.png" alt="Submit to LinkedIn" /></a></div></div></div>
+
+<p>Jannis Kounellis nasce in Grecia nel 1936. Negli anni '50 lascia il suo paese natale per trasferirsi a Roma, dove studierà presso l'<span class="mw-redirect">Accademia di Belle Arti</span> sotto la guida di Toti Scialoja al quale deve l'influenza dell'espressionismo astratto che insieme all'arte informale costituisce il binomio fondamentale dal quale prende le mosse il suo percorso creativo.</p>
+
+<a class="readmore" href="/it/news/49-illy-news/97-jannis-kounellis.html">Leggi tutto...</a>	
+	<h5 class="newsflash-titlelight">
+			Rum & Cucina - Lombate di manzo al rum		</h5>
+
+
+<div class="itp-social-buttons-box"><div class="itp-sbb-bothl"><div class="itp-sb-left"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F96-rum-cucina-lombate-di-manzo-al-rum.html&amp;title=Rum%20%26%20Cucina%20-%20Lombate%20di%20manzo%20al%20rum" title="Submit to Digg" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/digg.png" alt="Submit to Digg" /></a><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F96-rum-cucina-lombate-di-manzo-al-rum.html&amp;t=Rum%20%26%20Cucina%20-%20Lombate%20di%20manzo%20al%20rum" title="Submit to Facebook" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/facebook.png" alt="Submit to Facebook" /></a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F96-rum-cucina-lombate-di-manzo-al-rum.html" title="Submit to Google Plus" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/google.png" alt="Submit to Google Plus" /></a><a href="http://twitter.com/share?text=Rum%20%26%20Cucina%20-%20Lombate%20di%20manzo%20al%20rum&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F96-rum-cucina-lombate-di-manzo-al-rum.html" title="Submit to Twitter" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/twitter.png" alt="Submit to Twitter" /></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.rumshop.it%2Fit%2Fnews%2F50-rum-news%2F96-rum-cucina-lombate-di-manzo-al-rum.html&amp;title=Rum%20%26%20Cucina%20-%20Lombate%20di%20manzo%20al%20rum" title="Submit to LinkedIn" target="blank" ><img src="http://www.rumshop.it/plugins/content/itpsocialbuttons/images/small/linkedin.png" alt="Submit to LinkedIn" /></a></div></div></div>
+
+<p></p>
+<p>Continuiamo l'esplorazione dei possibli utilizzi del rum in cucina con uno splendido secondo piatto, le <strong>Lombatine di Manzo al Rum.</strong></p>
+
+<a class="readmore" href="/it/news/50-rum-news/96-rum-cucina-lombate-di-manzo-al-rum.html">Leggi tutto...</a></div>
+</div>
+			</div>
+		</div>
+	</div>
+	
+				</div>	
+									
+			</div>
+		</div>
+		<div class="vp-navigation-top container">
+			<div id="scroll-top" title="Back to top">Top</div>
+		</div>				
+				<section id="bottom">
+			<div class="container">
+				<div class="inner-container">
+					<div class="row-fluid">
+							
+	<div class="moduletable  span3">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Shop Categories</h3>
+								<div class="modulcontent"><ul class="list " id="4">
+<li class="item-105 active"><a href="/it.html" >Home</a></li><li class="item-213"><a href="/it/tutte-le-categorie.html" >Tutte le categorie</a></li><li class="item-190"><a href="/it/illycollection.html" >ILLY Collection</a></li><li class="item-191"><a href="/it/porcellane-d-ancap.html" >Porcellane d'Ancap</a></li><li class="item-192"><a href="/it/rum.html" >Rum</a></li><li class="item-202"><a href="/it/absinthe.html" >Assenzio</a></li><li class="item-203"><a href="/it/whiskey.html" >Whisky</a></li></ul>
+</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="moduletable  span3">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Assistenza Tecnica</h3>
+								<div class="modulcontent">
+
+<div class="custom"  >
+	<p>Trovi qualche difficolta' durante la navigazione, o cerchi un prodotto e non riesci a trovarlo?<br /><span id="cloak9178"><a href="mailto:support@rumshop.it">support@rumshop.it</a></span></p></div>
+</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="moduletable  span3">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Quick Links</h3>
+								<div class="modulcontent"><ul class="list ">
+<li class="item-344"><a href="/it/condizioni-del-servizio.html" >Condizioni del servizio</a></li><li class="item-345"><a href="/it/privacy.html" >Privacy</a></li><li class="item-346"><a href="/it/diritto-di-recesso.html" >Diritto di Recesso</a></li><li class="item-347"><a href="/it/sitemap.html" >Sitemap</a></li></ul>
+</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="moduletable  span3">	
+		<div class="mods">	
+			<div class="bghelper">
+									<h3>Pagamenti accettati</h3>
+								<div class="modulcontent">
+
+<div class="custom"  >
+	<p style="text-align: center;"><img src="/images/stories/virtuemart/payment/BONIFICO.png" border="0" width="75" /><img src="/images/stories/virtuemart/payment/paypal.png" border="0" width="75" style="margin-left: 4px; margin-right: 4px;" /></p>
+<p style="text-align: center;"><img src="/images/stories/virtuemart/payment/POSTE.png" border="0" width="75" /><img src="/images/stories/virtuemart/payment/contrassegno.png" border="0" width="75" style="margin-right: 4px; margin-left: 4px;" /></p></div>
+</div>
+			</div>
+		</div>
+	</div>
+	
+					</div>	
+				</div>		
+			</div>		
+		</section>
+			
+		<footer id="footer">
+			<div class="container">
+				<div class="inner-container">
+					<div class="row-fluid">
+						
+
+<div class="custom"  >
+	<p style="text-align: center;"><span>Rumlife è un marchio di proprietà di Tnt Pub s.a.s di A. Sema &amp; C. - Via della Ginnastica 46/a - Trieste - p.i. 00755310323 - </span><span id="cloak3987"><a href="mailto:tntpub@gmail.com">tntpub@gmail.com</a></span></p></div>
+
+
+<div class="custom"  >
+	<p style="text-align: center;"><a href="http://www.pagineprezzi.it/a/lista_prodotto/idx/0/mot/Rumlife/lista_prodotto.htm" title="Il catalogo del commercio online"><img src="/images/PP90x35.gif" border="0" alt="pagineprezzi" title="link" height="30" style="margin-left: 4px; margin-right: 4px;" /></a><a class="tf_upfront_badge" href="http://www.thefind.com/store/about-rumshopit" title="TheFind Upfront"><img src="http://upfront.thefind.com/images/badges/r/bf/3f/bf3f8b28100782f43d3222e60716853a.png" border="0" alt="Rumlife - Illy Collection &amp; Fine Rum store is an Upfront Merchant on TheFind. Click for info." title="link" height="30" style="margin-left: 2px; margin-right: 2px;" /></a><a href="http://www.negozipoint.it/ricerca.html?merchant=rumshop" target="_blank" title="Le offerte di Rumshop sul comparatore prezzi Negozipoint"><img src="http://www.negozipoint.it/images/logo_130x39.png" border="0" alt="Negozipoint" title="link" height="30" style="margin-left: 4px; margin-right: 4px;" /></a><a href="http://www.trovaofferte.net" title="Confronta prezzi"><img src="http://www.trovaofferte.net/banner_trv1.jpg" border="0" alt="trovaofferte" title="Segnalato su trovaofferte.net" height="28" style="margin-left: 2px; margin-right: 2px;" /></a><a href="http://www.prezzifacili.it" title="Comparatore Prezzi"><img src="http://www.prezzifacili.it/images/pf_logo_small.png" border="0" alt="prezzifacili" title="link" width="90" height="32" style="margin-left: 2px; margin-right: 2px;" /></a><a href="http://www.chinasite.com" title="china site"></a></p>
+<p style="text-align: center;"><a href="http://www.chinasite.com" title="china site"><span style="font-size: medium;"><strong><span style="color: #ff0000;">China</span><span style="color: #0000a0;">Site</span><span style="color: #ff8000;">.</span><span style="color: #0080c0;"><em>com</em></span></strong></span></a></p>
+<p style="text-align: center;"><span style="font-size: x-small;"><span style="color: #0080c0;"><a href="https://www.osmarketing.eu" target="_blank" title="web design" rel="index,follow">Web Design</a> by danielarossone.com</span></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></div>
+
+					</div>	
+				</div>		
+			</div>			
+		</footer>	
+	</div>
+	
+</body>
+</html>
