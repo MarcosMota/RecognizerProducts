@@ -2,7 +2,6 @@ nivea
 desodorante
 coca cola
 garrafa
-bebida
 lata
 brahma
 vidro
