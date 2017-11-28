@@ -12,16 +12,15 @@ def hello():
 
 @app.route('/api/recognizer', methods=["POST"])
 def recognizer():
-   
     corte = 0.0
     result = []
     # Read in the image_data
     image_data = tf.gfile.FastGFile('image.jpg', 'rb').read()
     # Loads label file, strips off carriage return
     label_lines = [line.rstrip() for line
-        in tf.gfile.GFile("./model/retrained_labels.txt")]
+        in tf.gfile.GFile("./model/labels.txt")]
     # Unpersists graph from file
-    with tf.gfile.FastGFile("./model/retrained_graph.pb", 'rb') as f:
+    with tf.gfile.FastGFile("./model/graph.pb", 'rb') as f:
         graph_def = tf.GraphDef()
         graph_def.ParseFromString(f.read())
         _ = tf.import_graph_def(graph_def, name='')
