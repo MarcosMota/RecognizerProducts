@@ -84,7 +84,7 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
 
     if (!isFinishing()) {
       LOGGER.d("Requesting finish");
-      finish();
+      //finish();
     }
 
     handlerThread.quitSafely();

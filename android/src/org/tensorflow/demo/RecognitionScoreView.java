@@ -21,6 +21,8 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
 
 import org.tensorflow.demo.Classifier.Recognition;
 

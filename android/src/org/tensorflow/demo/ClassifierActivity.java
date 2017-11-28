@@ -16,6 +16,7 @@
 
 package org.tensorflow.demo;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;
@@ -31,6 +32,12 @@ import android.os.Trace;
 import android.util.Size;
 import android.util.TypedValue;
 import android.view.Display;
+import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
+
+import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 import org.tensorflow.demo.OverlayView.DrawCallback;
@@ -71,7 +78,7 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
   private static final int IMAGE_MEAN = 128;
   private static final float IMAGE_STD = 128.0f;
   private static final String INPUT_NAME = "input";
-  private static final String OUTPUT_NAME = "MobilenetV1/Predictions/Softmax";
+  private static final String OUTPUT_NAME = "final_result";
 
   private static final String MODEL_FILE = "file:///android_asset/graph.pb";
   private static final String LABEL_FILE = "file:///android_asset/labels.txt";
@@ -83,7 +90,7 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
   private static final Size DESIRED_PREVIEW_SIZE = new Size(640, 480);
 
   private Classifier classifier;
-
+  private List<Classifier.Recognition> results = new ArrayList<>();;
   private Integer sensorOrientation;
 
   private int previewWidth = 0;
@@ -227,17 +234,29 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
     if (SAVE_PREVIEW_BITMAP) {
       ImageUtils.saveBitmap(croppedBitmap);
     }
+    Button btn = (Button)findViewById(R.id.btn_visualizar);
+    btn.setOnClickListener(new View.OnClickListener() {
+      @Override
+      public void onClick(View view) {
+          Intent intent = new Intent(ClassifierActivity.this,ResultActivity.class);
+          intent.putExtra("results", (Serializable) results);
+          startActivity(intent);
+      }
+    });
 
     runInBackground(
         new Runnable() {
           @Override
           public void run() {
             final long startTime = SystemClock.uptimeMillis();
-            final List<Classifier.Recognition> results = classifier.recognizeImage(croppedBitmap);
+            results = classifier.recognizeImage(croppedBitmap);
+
+
             lastProcessingTimeMs = SystemClock.uptimeMillis() - startTime;
 
             cropCopyBitmap = Bitmap.createBitmap(croppedBitmap);
             resultsView.setResults(results);
+
             requestRender();
             computing = false;
           }
